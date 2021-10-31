@@ -7,15 +7,17 @@ const fs = require("fs");
  * Configuration goes below.
  */
 const URL = "https://www.nature.com/";
-const fileName = "result.json";
+const fileName = "crawled.json";
 const metaName = {
 	title: "dc.title",
 	desc: "dc.description",
 };
+const max = 200;
 
 /**
  * Algorithm.
  */
+let id = 0;
 const parsed_url = new Parser(URL);
 const crawled = {};
 const fixUrl = (url) => {
@@ -28,6 +30,7 @@ const fixUrl = (url) => {
 
 const crawl = async (url) => {
 	if (crawled[url]) return;
+	if (id >= max) process.exit();
 	if (!url.includes(parsed_url.host)) return;
 
 	crawled[url] = true;
@@ -52,12 +55,16 @@ const crawl = async (url) => {
 			let data = fs.readFileSync(fileName, "utf8");
 			obj = JSON.parse(data);
 			obj.push({
+				id: id,
 				title: content,
 				desc: desc,
 				link: url,
 			});
 			json = JSON.stringify(obj);
-			fs.writeFileSync(fileName, json, "utf8");
+			if (id < max) {
+				fs.writeFileSync(fileName, json, "utf8");
+				id++;
+			}
 		}
 
 		links.forEach((link) => {
