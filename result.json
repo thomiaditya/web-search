@@ -1,0 +1,1147 @@
+[
+	{
+		"title": "Scientists’ fears of racial bias surge amid US crackdown on China ties",
+		"desc": "Poll shows that researchers of Chinese descent worry about surveillance by the US government and have stepped back from collaborations in China.  Poll shows that researchers of Chinese descent worry about surveillance by the US government and have stepped back from collaborations in China.",
+		"link": "https://www.nature.com/articles/d41586-021-02976-8"
+	},
+	{
+		"title": "Daily briefing: physicists fail to find elusive ‘sterile neutrinos’",
+		"desc": "Despite searching for decades, researchers still haven’t found any signs that the hypothetical particles exist. Plus: predatory publishers’ latest scam, and how vaccinating young kids could affect the pandemic.  Despite searching for decades, researchers still haven’t found any signs that the hypothetical particles exist. Plus: predatory publishers’ latest scam, and how vaccinating young kids could affect the pandemic.",
+		"link": "https://www.nature.com/articles/d41586-021-02986-6"
+	},
+	{
+		"title": "The unexpected ancestry of Inner Asian mummies",
+		"desc": "The genomes of Bronze Age mummies from the Tarim Basin in northwest China suggest that these individuals were descended from an ancient Asian population that was genetically isolated, despite extensive cultural interactions in the region.  Ancient genomes offer clues to the ancestry of Bronze Age mummies.",
+		"link": "https://www.nature.com/articles/d41586-021-02872-1"
+	},
+	{
+		"title": "Common antidepressant slashes risk of COVID death",
+		"desc": "Fluvoxamine is both inexpensive and highly effective at preventing mild COVID-19 from turning severe.  Fluvoxamine is both inexpensive and highly effective at preventing mild COVID-19 from turning severe.",
+		"link": "https://www.nature.com/articles/d41586-021-02988-4"
+	},
+	{
+		"title": "The search for people who never get COVID",
+		"desc": "An international team of researchers wants to find people who are genetically resistant to SARS-CoV-2, in the hope of developing new drugs and treatments.  An international team of researchers wants to find people who are genetically resistant to SARS-CoV-2, in the hope of developing new drugs and treatments.",
+		"link": "https://www.nature.com/articles/d41586-021-02978-6"
+	},
+	{
+		"title": "Curbing fossil fuels and a look inside cells — the week in infographics",
+		"desc": "Nature highlights three key infographics from the week in science and research.  Nature highlights three key infographics from the week in science and research.",
+		"link": "https://www.nature.com/articles/d41586-021-02975-9"
+	},
+	{
+		"title": "The shifting sands of ‘gain-of-function’ research",
+		"desc": "The mystery of COVID’s origins has reignited a contentious debate about potentially risky studies and the fuzzy terminology that describes them.  The mystery of COVID’s origins has reignited a contentious debate about potentially risky studies and the fuzzy terminology that describes them.",
+		"link": "https://www.nature.com/articles/d41586-021-02903-x"
+	},
+	{
+		"title": "Clues that natural killer cells help to control COVID",
+		"desc": "Natural killer cells can destroy cells infected by SARS-CoV-2, but this immune-system defence malfunctions in people with severe COVID-19. Will this finding drive a search for ways to reinvigorate natural killer cells in such cases?  A defence response malfunctions in people with severe COVID-19.",
+		"link": "https://www.nature.com/articles/d41586-021-02778-y"
+	},
+	{
+		"title": "From the archive",
+		"desc": "Nature’s pages feature musings about the value of studying wetlands, and a report of the excavation of an ancient city in Sicily.  The value of studying wetlands, and the excavation of an ancient city in Sicily.",
+		"link": "https://www.nature.com/articles/d41586-021-02877-w"
+	},
+	{
+		"title": "Machine learning enables global solar-panel detection",
+		"desc": "An inventory of the world’s solar-panel installations has been produced with the help of machine learning, revealing many more than had previously been recorded. The results will inform efforts to meet global targets for solar-energy use.  An inventory of the world’s photovoltaic installations.",
+		"link": "https://www.nature.com/articles/d41586-021-02875-y"
+	},
+	{
+		"title": "A massive effort links protein-coding gene variants to health",
+		"desc": "The protein-coding portions of more than 450,000 individuals’ genomes have been sequenced, and analysed together with the individuals’ health data, revealing rare and common gene variants linked to various health-related traits.  Almost 9,000 gene–phenotype associations found using UK Biobank data.",
+		"link": "https://www.nature.com/articles/d41586-021-02873-0"
+	},
+	{
+		"title": "UK research funding to grow slower than hoped",
+		"desc": "Budget includes Horizon Europe funding, but worries about access linger.  Budget includes Horizon Europe funding, but worries about access linger.",
+		"link": "https://www.nature.com/articles/d41586-021-02972-y"
+	},
+	{
+		"title": "Bryozoan fossils found at last in deposits from the Cambrian period",
+		"desc": "Molecular evidence has long indicated that aquatic animals called bryozoans should be found among the fossils of the Cambrian period, around 541 million years ago. Yet they have been conspicuously absent, until now.  The discovery of elusive fossils provides insight into animal evolution.",
+		"link": "https://www.nature.com/articles/d41586-021-02874-z"
+	},
+	{
+		"title": "Disease variant prediction with deep generative models of evolutionary data",
+		"desc": "Quantifying the pathogenicity of protein variants in human disease-related genes would have a marked effect on clinical decisions, yet the overwhelming majority (over 98%) of these variants still have unknown consequences1–3. In principle, computational methods could support the large-scale interpretation of genetic variants. However, state-of-the-art methods4–10 have relied on training machine learning models on known disease labels. As these labels are sparse, biased and of variable quality, the resulting models have been considered insufficiently reliable11. Here we propose an approach that leverages deep generative models to predict variant pathogenicity without relying on labels. By modelling the distribution of sequence variation across organisms, we implicitly capture constraints on the protein sequences that maintain fitness. Our model EVE (evolutionary model of variant effect) not only outperforms computational approaches that rely on labelled data but also performs on par with, if not better than, predictions from high-throughput experiments, which are increasingly used as evidence for variant classification12–16. We predict the pathogenicity of more than 36 million variants across 3,219 disease genes and provide evidence for the classification of more than 256,000 variants of unknown significance. Our work suggests that models of evolutionary information can provide valuable independent evidence for variant interpretation that will be widely useful in research and clinical settings. A new computational method, EVE, classifies human genetic variants in disease genes using deep generative models trained solely on evolutionary sequences.",
+		"link": "https://www.nature.com/articles/s41586-021-04043-8"
+	},
+	{
+		"title": "Dispatched uses Na+ flux to power release of lipid-modified Hedgehog",
+		"desc": "The Dispatched protein, which is related to the NPC1 and PTCH1 cholesterol transporters1,2 and to H+-driven transporters of the RND family3,4, enables tissue-patterning activity of the lipid-modified Hedgehog protein by releasing it from tightly -localized sites of embryonic expression5–10. Here we determine a cryo-electron microscopy structure of the mouse protein Dispatched homologue 1 (DISP1), revealing three Na+ ions coordinated within a channel that traverses its transmembrane domain. We find that the rate of Hedgehog export is dependent on the Na+ gradient across the plasma membrane. The transmembrane channel and Na+ binding are disrupted in DISP1-NNN, a variant with asparagine substitutions for three intramembrane aspartate residues that each coordinate and neutralize the charge of one of the three Na+ ions. DISP1-NNN and variants that disrupt single Na+ sites retain binding to, but are impaired in export of the lipid-modified Hedgehog protein to the SCUBE2 acceptor. Interaction of the amino-terminal signalling domain of the Sonic hedgehog protein (ShhN) with DISP1 occurs via an extensive buried surface area and contacts with an extended furin-cleaved DISP1 arm. Variability analysis reveals that ShhN binding is restricted to one extreme of a continuous series of DISP1 conformations. The bound and unbound DISP1 conformations display distinct Na+-site occupancies, which suggests a mechanism by which transmembrane Na+ flux may power extraction of the lipid-linked Hedgehog signal from the membrane. Na+-coordinating residues in DISP1 are conserved in PTCH1 and other metazoan RND family members, suggesting that Na+ flux powers their conformationally driven activities. Cryo-electron microscopy studies show that dynamic coordination of Na+ in the ion channel of Dispatched homologue 1 and the transmembrane Na+ gradient have key roles in exporting lipid-modified Hedgehog protein signal.",
+		"link": "https://www.nature.com/articles/s41586-021-03996-0"
+	},
+	{
+		"title": "Call for a framework for reporting evidence for life beyond Earth",
+		"desc": "Our generation could realistically be the one to discover evidence of life beyond Earth. With this privileged potential comes responsibility. The magnitude of the question of whether we are alone in the Universe, and the public interest therein, opens the possibility that results may be taken to imply more than the observations support, or than the observers intend. As life-detection objectives become increasingly prominent in space sciences, it is essential to open a community dialogue about how to convey information in a subject matter that is diverse, complicated and has a high potential to be sensationalized. Establishing best practices for communicating about life detection can serve to set reasonable expectations on the early stages of a hugely challenging endeavour, attach value to incremental steps along the path, and build public trust by making clear that false starts and dead ends are an expected and potentially productive part of the scientific process. Here we endeavour to motivate and seed the discussion with basic considerations and offer an example of how such considerations might be incorporated and applied in a proof-of-concept-level framework. Everything mentioned herein, including the name of the confidence scale, is intended not as a prescription, but simply as the beginning of an important dialogue. A framework is proposed to start a dialogue on the criteria for assessing claims and supporting evidence for life beyond Earth.",
+		"link": "https://www.nature.com/articles/s41586-021-03804-9"
+	},
+	{
+		"title": "AKIRIN2 controls the nuclear import of proteasomes in vertebrates",
+		"desc": "Protein expression and turnover are controlled through a complex interplay of transcriptional, post-transcriptional and post-translational mechanisms to enable spatial and temporal regulation of cellular processes. To systematically elucidate such gene regulatory networks, we developed a CRISPR screening assay based on time-controlled Cas9 mutagenesis, intracellular immunostaining and fluorescence-activated cell sorting that enables the identification of regulatory factors independent of their effects on cellular fitness. We pioneered this approach by systematically probing the regulation of the transcription factor MYC, a master regulator of cell growth1–3. Our screens uncover a highly conserved protein, AKIRIN2, that is essentially required for nuclear protein degradation. We found that AKIRIN2 forms homodimers that directly bind to fully assembled 20S proteasomes to mediate their nuclear import. During mitosis, proteasomes are excluded from condensing chromatin and re-imported into newly formed daughter nuclei in a highly dynamic, AKIRIN2-dependent process. Cells undergoing mitosis in the absence of AKIRIN2 become devoid of nuclear proteasomes, rapidly causing accumulation of MYC and other nuclear proteins. Collectively, our study reveals a dedicated pathway controlling the nuclear import of proteasomes in vertebrates and establishes a scalable approach to decipher regulators in essential cellular processes. Using time-controlled CRISPR screens, the authors identify AKIRIN2 as a factor involved in the nuclear import of the proteasome.",
+		"link": "https://www.nature.com/articles/s41586-021-04035-8"
+	},
+	{
+		"title": "COVID vaccines can block variant hitting Asia, lab study finds",
+		"desc": "Assays using live SARS-CoV-2 offer hope that the vaccines made by Pfizer and Moderna will protect against a viral strain first seen in India.  Assays using live SARS-CoV-2 offer hope that the vaccines made by Pfizer and Moderna will protect against a viral strain first seen in India.",
+		"link": "https://www.nature.com/articles/d41586-021-01329-9?referral=true"
+	},
+	{
+		"title": "India’s COVID crisis flags need to forecast variants",
+		"desc": "The rise of more-transmissible viral mutants demands new ways to prevent, detect, track and treat SARS-CoV-2 infections.  The rise of more-transmissible viral mutants demands new ways to prevent, detect, track and treat SARS-CoV-2 infections.",
+		"link": "https://www.nature.com/articles/d41586-021-01427-8?referral=true"
+	},
+	{
+		"title": "India: draft science policy calls for public engagement",
+		"desc": " Letter to the Editor",
+		"link": "https://www.nature.com/articles/d41586-021-00861-y?referral=true"
+	},
+	{
+		"title": "India, Brazil and the human cost of sidelining science",
+		"desc": "Governments that ignore or delay acting on scientific advice are missing out on a crucial opportunity to control the pandemic.  Governments that ignore or delay acting on scientific advice are missing out on a crucial opportunity to control the pandemic.",
+		"link": "https://www.nature.com/articles/d41586-021-01166-w?referral=true"
+	},
+	{
+		"title": "How to build a quantum internet",
+		"desc": "Specialised quantum computers could pave the way for a new type of internet  Specialised quantum computers could pave the way for a new type of internet",
+		"link": "https://www.nature.com/articles/d41586-021-00540-y"
+	},
+	{
+		"title": "Rhino puzzle and China’s COVID vaccines — the week in infographics",
+		"desc": "Nature highlights three key infographics from the week in science and research.  Nature highlights three key infographics from the week in science and research.",
+		"link": "http://www.nature.com/articles/d41586-021-02878-9"
+	},
+	{
+		"title": "General Nature of the Genetic Code for Proteins",
+		"desc": "",
+		"link": "https://www.nature.com/articles/1921227a0"
+	},
+	{
+		"title": "European rivers are fragmented by many more barriers than had been recorded",
+		"desc": "An atlas of European river barriers has been made, by curating and correcting existing records, and by surveying 2,700 kilometres of waterways. It reveals that rivers are fragmented by an amazing number of obstructions.  At atlas of European river barriers.",
+		"link": "https://www.nature.com/articles/d41586-020-03440-9"
+	},
+	{
+		"title": "India’s DNA COVID vaccine is a world first – more are coming",
+		"desc": "The ZyCoV-D vaccine heralds a wave of DNA vaccines for various diseases that are undergoing clinical trials around the world.  The ZyCoV-D vaccine heralds a wave of DNA vaccines for various diseases that are undergoing clinical trials around the world.",
+		"link": "https://www.nature.com/articles/d41586-021-02385-x?referral=true"
+	},
+	{
+		"title": "Large losses of total ozone in Antarctica reveal seasonal ClOx/NOx interaction",
+		"desc": "Recent attempts1,2 to consolidate assessments of the effect of human activities on stratospheric ozone (O3) using one-dimensional models for 30° N have suggested that perturbations of total O3 will remain small for at least the next decade. Results from such models are often accepted by default as global estimates3. The inadequacy of this approach is here made evident by observations that the spring values of total O3 in Antarctica have now fallen considerably. The circulation in the lower stratosphere is apparently unchanged, and possible chemical causes must be considered. We suggest that the very low temperatures which prevail from midwinter until several weeks after the spring equinox make the Antarctic stratosphere uniquely sensitive to growth of inorganic chlorine, ClX, primarily by the effect of this growth on the NO2/NO ratio. This, with the height distribution of UV irradiation peculiar to the polar stratosphere, could account for the O3 losses observed.",
+		"link": "https://www.nature.com/articles/315207a0"
+	},
+	{
+		"title": "The computer that mastered Go",
+		"desc": "From the award-winning Nature Video team",
+		"link": "https://www.nature.com/articles/d41586-019-00253-3"
+	},
+	{
+		"title": "Dispatched uses Na+ flux to power release of lipid-modified Hedgehog",
+		"desc": "The Dispatched protein, which is related to the NPC1 and PTCH1 cholesterol transporters1,2 and to H+-driven transporters of the RND family3,4, enables tissue-patterning activity of the lipid-modified Hedgehog protein by releasing it from tightly -localized sites of embryonic expression5–10. Here we determine a cryo-electron microscopy structure of the mouse protein Dispatched homologue 1 (DISP1), revealing three Na+ ions coordinated within a channel that traverses its transmembrane domain. We find that the rate of Hedgehog export is dependent on the Na+ gradient across the plasma membrane. The transmembrane channel and Na+ binding are disrupted in DISP1-NNN, a variant with asparagine substitutions for three intramembrane aspartate residues that each coordinate and neutralize the charge of one of the three Na+ ions. DISP1-NNN and variants that disrupt single Na+ sites retain binding to, but are impaired in export of the lipid-modified Hedgehog protein to the SCUBE2 acceptor. Interaction of the amino-terminal signalling domain of the Sonic hedgehog protein (ShhN) with DISP1 occurs via an extensive buried surface area and contacts with an extended furin-cleaved DISP1 arm. Variability analysis reveals that ShhN binding is restricted to one extreme of a continuous series of DISP1 conformations. The bound and unbound DISP1 conformations display distinct Na+-site occupancies, which suggests a mechanism by which transmembrane Na+ flux may power extraction of the lipid-linked Hedgehog signal from the membrane. Na+-coordinating residues in DISP1 are conserved in PTCH1 and other metazoan RND family members, suggesting that Na+ flux powers their conformationally driven activities. Cryo-electron microscopy studies show that dynamic coordination of Na+ in the ion channel of Dispatched homologue 1 and the transmembrane Na+ gradient have key roles in exporting lipid-modified Hedgehog protein signal.",
+		"link": "https://www.nature.com/articles/s41586-021-03996-0#ref-CR22"
+	},
+	{
+		"title": "Science under Trump: Four key moments",
+		"desc": "What Trump’s first term has meant for science.  What Trump’s first term has meant for science.",
+		"link": "https://www.nature.com/articles/d41586-020-02850-z"
+	},
+	{
+		"title": "A planetary system around the millisecond pulsar PSR1257 + 12",
+		"desc": "MILLISECOND radio pulsars, which are old (∼109yr), rapidly rotating neutron stars believed to be spun up by accretion of matter from their stellar companions, are usually found in binary systems with other degenerate stars1. Using the 305-m Arecibo radiotelescope to make precise timing measurements of pulses from the recently discovered 6.2-ms pulsar PSR1257 +12 (ref. 2), we demonstrate that, rather than being associated with a stellar object, the pulsar is orbited by two or more planet-sized bodies. The planets detected so far have masses of at least 2.8 M⊕ and 3.4 M⊕ where M⊕ is the mass of the Earth. Their respective distances from the pulsar are 0.47 AU and 0.36 AU, and they move in almost circular orbits with periods of 98.2 and 66.6 days. Observations indicate that at least one more planet may be present in this system. The detection of a planetary system around a nearby (∼500 pc), old neutron star, together with the recent report on a planetary companion to the pulsar PSR1829–10 (ref. 3) raises the tantalizing possibility that a non-negligible fraction of neutron stars observable as radio pulsars may be orbited by planet-like bodies. The utility of the clock-like pulses emitted by pulsars [see Nature \n217, 709-713 (1968)] did not end with the insights they have yielded into the properties of neutron stars, and hence of high-density matter. In 1992, Wolszczan and Frail reported precise pulsar timing measurements which exhibited periodic variations. Unlike similar observations reported in the previous year (cited as ref. 3 in the paper), these variations were not an artefact, but revealed the presence of two or more planet-sized objects orbiting the neutron star — the first such objects to be detected outside the Solar System.",
+		"link": "https://www.nature.com/articles/355145a0"
+	},
+	{
+		"title": "Keeping Up to Date",
+		"desc": "",
+		"link": "https://www.nature.com/articles/229009a0"
+	},
+	{
+		"title": "How antiviral pill molnupiravir shot ahead in the COVID drug hunt",
+		"desc": "The Merck pill, which could become the first oral antiviral COVID treatment, forces the SARS-CoV-2 coronavirus to mutate itself to death.  The Merck pill, which could become the first oral antiviral COVID treatment, forces the SARS-CoV-2 coronavirus to mutate itself to death.",
+		"link": "https://www.nature.com/articles/d41586-021-02783-1#correction-0"
+	},
+	{
+		"title": "The virologist preparing Africa for the next pandemic",
+		"desc": "Kariuki Njenga talks about his work building a pan-African study to find emerging diseases quickly.  Kariuki Njenga talks about his work building a pan-African study to find emerging diseases quickly.",
+		"link": "https://www.nature.com/articles/d41586-021-02864-1"
+	},
+	{
+		"title": "How to mark 125 years of discovery",
+		"desc": "",
+		"link": "https://www.nature.com/articles/372011a0"
+	},
+	{
+		"title": "Reagan must live with arms control",
+		"desc": "",
+		"link": "https://www.nature.com/articles/290533a0"
+	},
+	{
+		"title": "Predatory publishers’ latest scam: bootlegged and rebranded papers",
+		"desc": "To thwart publishing rackets that undermine scholars and scholarly publishing, legitimate journals should show their workings.  To thwart publishing rackets that undermine scholars and scholarly publishing, legitimate journals should show their workings.",
+		"link": "https://www.nature.com/articles/d41586-021-02906-8"
+	},
+	{
+		"title": "Biden must keep funding pledge to historically Black colleges and universities",
+		"desc": "Congress has eviscerated the US president’s pledge to upgrade research infrastructure at universities that serve underrepresented communities.  Congress has eviscerated the US president’s pledge to upgrade research infrastructure at universities that serve underrepresented communities.",
+		"link": "https://www.nature.com/articles/d41586-021-02555-x"
+	},
+	{
+		"title": "Experimentally Induced Twinning in Plants",
+		"desc": "IT is well known that characteristic changes in leaf-form and growth habit can be induced by treating shoot apices with synthetic growth substances. The question arises as to whether entire plant embryos also can be induced to develop abnormally by the action of growth regulators. For this purpose the solutions must be applied in a suitable manner to the earliest embryo stages through the growing carpel walls, or it would be necessary to remove the still quite small embryos and to expose them in vitro to the proper influences. Both methods are difficult to apply and have as yet proved unsatisfactory.",
+		"link": "https://www.nature.com/articles/176355a0"
+	},
+	{
+		"title": "Nuclear Power and its Utilization",
+		"desc": "",
+		"link": "https://www.nature.com/articles/176271a0"
+	},
+	{
+		"title": "Fossil evidence unveils an early Cambrian origin for Bryozoa",
+		"desc": "Bryozoans (also known as ectoprocts or moss animals) are aquatic, dominantly sessile, filter-feeding lophophorates that construct an organic or calcareous modular colonial (clonal) exoskeleton1–3. The presence of six major orders of bryozoans with advanced polymorphisms in lower Ordovician rocks strongly suggests a Cambrian origin for the largest and most diverse lophophorate phylum2,4–8. However, a lack of convincing bryozoan fossils from the Cambrian period has hampered resolution of the true origins and character assembly of the earliest members of the group. Here we interpret the millimetric, erect, bilaminate, secondarily phosphatized fossil Protomelission gatehousei9 from the early Cambrian of Australia and South China as a potential stem-group bryozoan. The monomorphic zooid capsules, modular construction, organic composition and simple linear budding growth geometry represent a mixture of organic Gymnolaemata and biomineralized Stenolaemata character traits, with phylogenetic analyses identifying P. gatehousei as a stem-group bryozoan. This aligns the origin of phylum Bryozoa with all other skeletonized phyla in Cambrian Age 3, pushing back its first occurrence by approximately 35 million years. It also reconciles the fossil record with molecular clock estimations of an early Cambrian origination and subsequent Ordovician radiation of Bryozoa following the acquisition of a carbonate skeleton10–13. Interpretation of the early Cambrian fossil Protomelission gatehousei9 as a potential stem-group bryozoan realigns the fossil record with molecular clock estimations of the origins of Bryozoa.",
+		"link": "https://www.nature.com/articles/s41586-021-04033-w"
+	},
+	{
+		"title": "Catch a falling Kosmos—and send the bill to Moscow",
+		"desc": "",
+		"link": "https://www.nature.com/articles/277342a0"
+	},
+	{
+		"title": "Educational Aspects of Free Education",
+		"desc": "AN innocent outsider would naturally suppose that the discussion on a proposal for free education would turn chiefly on educational and social considerations. So long as the question was of merely academic interest, this was, to a large extent, the case. It is true that strong Churchmen viewed with distaste a change which might increase the growing difficulty, found by voluntary school managers, of making both ends meet, or might possibly even sweep them off the board altogether, and that the enthusiasm of many partisans on the other side for the remission of fees was heightened by the hope that such a measure would give a new impetus to the formation of School Boards. But, on the whole, the disputants made at least an attempt in public to discuss the matter in its bearings on the child, the teacher, and the parent. The overburdened parent, the pauperizing effect of partial remission, the child kept from school because of his parents poverty, the teachers converted into tax-collectors—these were the stage properties of the one party; while the stock-in-trade of the other side included the sacred necessity of guarding “parental responsibility,” and the assertion that no one values what he does not pay for, and that to tax the hard-earned savings of the respectable middle-class to free the education of the children of the worthless and unthrifty was a Socialistic proposal of the crudest kind.",
+		"link": "https://www.nature.com/articles/044169a0"
+	},
+	{
+		"title": "How three refugee scientists kept their research hopes alive",
+		"desc": "Two organizations that support at-risk academics offered funding, fellowship and language support at a critical time.  Two organizations that support at-risk academics offered funding, fellowship and language support at a critical time.",
+		"link": "https://www.nature.com/articles/d41586-021-02850-7"
+	},
+	{
+		"title": "The audit",
+		"desc": "Playing the long game.  Playing the long game.",
+		"link": "https://www.nature.com/articles/d41586-021-02928-2"
+	},
+	{
+		"title": "Science and Moral Rearmament",
+		"desc": "SINCE the international crisis of last September public attention has been directed time and again in letters to the Press and in other ways to the need for rearmament in the moral sphere. The movement and the interest in it have undoubtedly sprung from a feeling that a critical point has been reached in the history of our civilization, and that there is danger of disaster unless certain changes in the psychology of nations can be brought about.",
+		"link": "https://www.nature.com/articles/144303a0"
+	},
+	{
+		"title": "Cancer in 'nanocolour': a new type of microscope slide",
+		"desc": "New technology helps pathologist quickly diagnose cancers without the need for staining  New technology helps pathologist quickly diagnose cancers without the need for staining",
+		"link": "https://www.nature.com/articles/d41586-021-02857-0"
+	},
+	{
+		"title": "Too soon to build laser weapons systems",
+		"desc": "",
+		"link": "https://www.nature.com/articles/289109a0"
+	},
+	{
+		"title": "Diffraction of Cathode Rays by a Thin Film",
+		"desc": "IF a fine beam of homogeneous cathode rays is sent nearly normally through a thin celluloid film (of the order 3 × 106 cm. thick) and then received on a photographic plate 10 cm. away and parallel to the film, we find that the central spot formed by the undeflected rays is surrounded by rings, recalling in appearance the haloes formed by mist round the sun. A photograph so obtained is reproduced (Fig. 1). If the density of the plate is measured by a photometer at a number of points along a radius, and the intensity of the rays at these points found by using the characteristic blackening curve of the plate (see Phil. Mag., vol. 1, p. 963, 1926), the rings appear as humps on the intensity-distance curves. In this way rings can be detected which may not be obvious to direct inspection. With rays of about 13,000 volts two rings have been found inside the obvious one. Traces have been found of a fourth ring in other photographs, but not more than three have been found on any one exposure. This is probably due to the limited range of intensity within which photometric measurements are feasible.",
+		"link": "https://www.nature.com/articles/119890a0"
+	},
+	{
+		"title": "Disease variant prediction with deep generative models of evolutionary data",
+		"desc": "Quantifying the pathogenicity of protein variants in human disease-related genes would have a marked effect on clinical decisions, yet the overwhelming majority (over 98%) of these variants still have unknown consequences1–3. In principle, computational methods could support the large-scale interpretation of genetic variants. However, state-of-the-art methods4–10 have relied on training machine learning models on known disease labels. As these labels are sparse, biased and of variable quality, the resulting models have been considered insufficiently reliable11. Here we propose an approach that leverages deep generative models to predict variant pathogenicity without relying on labels. By modelling the distribution of sequence variation across organisms, we implicitly capture constraints on the protein sequences that maintain fitness. Our model EVE (evolutionary model of variant effect) not only outperforms computational approaches that rely on labelled data but also performs on par with, if not better than, predictions from high-throughput experiments, which are increasingly used as evidence for variant classification12–16. We predict the pathogenicity of more than 36 million variants across 3,219 disease genes and provide evidence for the classification of more than 256,000 variants of unknown significance. Our work suggests that models of evolutionary information can provide valuable independent evidence for variant interpretation that will be widely useful in research and clinical settings. A new computational method, EVE, classifies human genetic variants in disease genes using deep generative models trained solely on evolutionary sequences.",
+		"link": "https://www.nature.com/articles/s41586-021-04043-8#Sec11"
+	},
+	{
+		"title": "Stimulated Optical Radiation in Ruby",
+		"desc": "Schawlow and Townes1 have proposed a technique for the generation of very monochromatic radiation in the infra-red optical region of the spectrum using an alkali vapour as the active medium. Javan2 and Sanders3 have discussed proposals involving electron-excited gaseous systems. In this laboratory an optical pumping technique has been successfully applied to a fluorescent solid resulting in the attainment of negative temperatures and stimulated optical emission at a wave-length of 6943 Å. ; the active material used was ruby (chromium in corundum). After demonstration in 1954 of the 'maser' principle (microwave amplification by stimulated emission of radiation), systems were sought in which the effect occurred in the infrared and visible spectrum. This goal was reached in 1960 when Theodore Maiman achieved optical laser action in ruby.",
+		"link": "https://www.nature.com/articles/187493a0"
+	},
+	{
+		"title": " Electric Valentine ",
+		"desc": "TELEGRAPH CLERK ♂ TO TELEGRAPH CLERK ♀",
+		"link": "https://www.nature.com/articles/006083b0"
+	},
+	{
+		"title": " Arctic Exploration ",
+		"desc": "IT is now upwards of twenty-five years since the British Government sent out any expedition to those little known northern regions, the exploration of which has won so much glory to the British navy, formed such a splendid and peaceful sphere for the training of our sailors, and been so fruitful in the highest results to Science. Since that time, and especially during the last few years, every important civilised power in the world, except Britain, has been doing what it could to advance the interests of Science, which are coincident with the highest interests of humanity, by sending out expedition after expedition to force from the Arctic Regions the wonderful secrets which they have so long held in their icy grip. What has been done by other nations has been sufficiently detailed from time to time in these pages, and the knowledge thus gained cannot but be of the greatest service to any deliberately organised expedition which this country may send out.",
+		"link": "https://www.nature.com/articles/007117a0"
+	},
+	{
+		"title": " RETROSPECT AND PROSPECT ",
+		"desc": "IN beginning with the present Number what is practically a New Series of NATURE, the journal has reached a definite stage of its career, one at which it will perhaps not be considered out of place that we should make a reference both to its past and future.",
+		"link": "https://www.nature.com/articles/018001a0"
+	},
+	{
+		"title": "Capire il clima e la turbolenza: il segno lasciato da Giorgio Parisi",
+		"desc": "Uno sguardo ai primi innovativi lavori del Premio Nobel, e all'ambiente accademico che li ha resi possibili. Uno sguardo ai primi innovativi lavori del Premio Nobel, e all'ambiente accademico che li ha resi possibili.",
+		"link": "https://www.nature.com/articles/d43978-021-00129-z"
+	},
+	{
+		"title": "Science and Peace",
+		"desc": "IN the remarkable differences between the world to-day and that of a century ago, the good changes and the evil are in the last resort due mainly to the use or misuse of scientific discovery. Men of science are, of course, not the sole agents in the transformation; their work is applied by others, under the direction of industrialists and Governments, for private gain or for the public good as judged by statesmen and administrators.",
+		"link": "https://www.nature.com/articles/139979a0"
+	},
+	{
+		"title": "The origin and spread of the Sino-Tibetan language family",
+		"desc": "A robust computational approach with added finesse provides evidence to support the view that the Sino-Tibetan languages arose in northern China and began to split into branches about 5,900 years ago.  This language family originated in China in the Yellow River basin region.",
+		"link": "https://www.nature.com/articles/d41586-019-01214-6"
+	},
+	{
+		"title": "Safeguarding dialysis services during the COVID-19 pandemic",
+		"desc": "Interruptions to dialysis services in resource-limited settings, like India, amidst the COVID-19 pandemic has highlighted our ill-preparedness. We need alternative plans to safeguard the provision of this life-sustaining treatment and protect our vulnerable patients.",
+		"link": "https://www.nature.com/articles/s41581-021-00448-w?referral=true"
+	},
+	{
+		"title": " Eleanor Ormerod, LLD, Economic Entomologist ",
+		"desc": "THE name of Eleanor Anne Ormerod will long be remembered for her unflagging industry and long-continued devotion to practical entomology, not surpassed in their own lines of research by Caroline Herschel and Mary Somerville, with whom she may most fittingly be compared. There can be no more fitting opportunity than the present to recall her services both to science and the world at large, when the Linnean Society (formerly so exclusive that ladies who contributed papers were not even admitted to be present when they were read) has just thrown open its full membership to women. The Entomological Society was never so exclusive; and at one time Miss E. A. Ormerod was one of the most regular attendants at the meetings, sometimes accompanied by her sister and fellow-worker, Georgiana E. Ormerod, and more rarely by some other lady friend. Eleanor Ormerod, LL.D., Economic Entomologist. Autobiography and Correspondence. Edited by Prof. Robert Wallace, Professor of Agriculture and Rural Economy in the University of Edinburgh. With portraits and illustrations. Pp. xx + 348; plates xxx; text illustrations 76. (London: Murray, 1904.) Price 21s. net.",
+		"link": "https://www.nature.com/articles/070219a0"
+	},
+	{
+		"title": "Who will regulate the bankers?",
+		"desc": "That financial institutions should be trustworthy is a necessary condition for their continued sponsorship of innovation. Banks, in other words, need laws.",
+		"link": "https://www.nature.com/articles/319001a0"
+	},
+	{
+		"title": "Which is the chicken, and which the egg?",
+		"desc": "",
+		"link": "https://www.nature.com/articles/372029a0"
+	},
+	{
+		"title": "When you recommend someone for an opportunity, follow through",
+		"desc": "Sponsoring someone is not a one-off act. Their success is your success, so support them throughout the process.  Sponsoring someone is not a one-off act. Their success is your success, so support them throughout the process.",
+		"link": "https://www.nature.com/articles/d41586-021-03004-5"
+	},
+	{
+		"title": "Apricot retaliation",
+		"desc": "",
+		"link": "https://www.nature.com/articles/260478b0"
+	},
+	{
+		"title": "Experimental Researches on Mechanical Flight",
+		"desc": "THE following is a translation of a communication made by Prof. S. P. Langley to the Paris Academy of Sciences on July 13:—",
+		"link": "https://www.nature.com/articles/044277a0"
+	},
+	{
+		"title": "What is Nature for?",
+		"desc": "",
+		"link": "https://www.nature.com/articles/243109a0"
+	},
+	{
+		"title": "COP26: set a minimum global carbon price for emissions",
+		"desc": "Letter to the Editor",
+		"link": "http://www.nature.com/articles/d41586-021-02881-0"
+	},
+	{
+		"title": "Uneven attention hampers the drive to control infectious diseases",
+		"desc": "Despite notable success stories, many conditions still present a complex challenge.  Despite notable success stories, many conditions still present a complex challenge.",
+		"link": "http://www.nature.com/articles/d41586-021-02910-y"
+	},
+	{
+		"title": "COVID, racism, China: three tests for the next NIH leader",
+		"desc": "The successor to Francis Collins will need to be steadfast, nimble and creative in how they run the world’s largest biomedical research agency at a pivotal time.  The successor to Francis Collins will need to be steadfast, nimble and creative in how they run the world’s largest biomedical research agency at a pivotal time.",
+		"link": "https://www.nature.com/articles/d41586-021-02842-7"
+	},
+	{
+		"title": "Concrete needs to lose its colossal carbon footprint",
+		"desc": "Concrete will be crucial for much-needed climate-resilient construction. But the cement industry must set out its plan for decarbonization.  Concrete will be crucial for much-needed climate-resilient construction. But the cement industry must set out its plan for decarbonization.",
+		"link": "https://www.nature.com/articles/d41586-021-02612-5"
+	},
+	{
+		"title": "Nature Subscriptions",
+		"desc": "",
+		"link": "https://www.nature.com/articles/244381b0"
+	},
+	{
+		"title": "Laser light points toward room-temperature quantum computer",
+		"desc": "Simple system revealed for controlling the properties of graphene electrons Simple system revealed for controlling the properties of graphene electrons",
+		"link": "https://www.nature.com/articles/d44151-021-00055-5"
+	},
+	{
+		"title": " The Use of Asphyxiants in Warfare ",
+		"desc": "THE use of asphyxiating gases by the Germans in forcing back the French lines to the north of Ypres has given rise to much conjecture as to the nature of the gases employed, and in a long article in a Sunday paper it is surmised that the gas used was carbon monoxide. The only foundation that can exist for such an opinion is that carbon monoxide is one of the most virulent gaseous poisons known, and that less than 1 per cent, in air rapidly proves fatal, but inasmuch as all the explosives in general, use produce it in large quantities, the smokeless powders in use by England France, and Germany, giving approximately 50 per cent of the permanent gases formed as carbon monoxide, it is hard to believe that the enormous volume produced by firing the charge in the gun should have no deleterious effect on. those using it, whilst the much smaller quantity given on the bursting of the shell should asphyxiate the enemy. The fact is, that carbon monoxide is slightly lighter than air, and when driven out by the explosion in a heated condition diffuses upwards so rapidly that scarcely a trace can be found at the breathing level, but when evolved underground in a confined space many accidents have been caused by its poisonous properties.",
+		"link": "https://www.nature.com/articles/095234a0"
+	},
+	{
+		"title": "Tips for collaborating with scientists, from a philosopher",
+		"desc": "Make language inclusive and agree on your aims in advance.  Make language inclusive and agree on your aims in advance.",
+		"link": "http://www.nature.com/articles/d41586-021-02896-7"
+	},
+	{
+		"title": "The advocacy frontier",
+		"desc": "Several major organizations are calling for radical reforms to improve oral health. What’s holding them up?  Several major organizations are calling for radical reforms to improve oral health. What’s holding them up?",
+		"link": "http://www.nature.com/articles/d41586-021-02926-4"
+	},
+	{
+		"title": "On the Identification of Habitual Criminals by Finger-Prints",
+		"desc": "A PARLIAMENTARY Blue Book on “The Identification of Habitual Criminals.” which has recently been issued, reports on The Finger-Print System, stated to have been “first suggested, and to some extent applied practically, by Sir William Herschel.”",
+		"link": "https://www.nature.com/articles/050548a0"
+	},
+	{
+		"title": "AKIRIN2 controls the nuclear import of proteasomes in vertebrates",
+		"desc": "Protein expression and turnover are controlled through a complex interplay of transcriptional, post-transcriptional and post-translational mechanisms to enable spatial and temporal regulation of cellular processes. To systematically elucidate such gene regulatory networks, we developed a CRISPR screening assay based on time-controlled Cas9 mutagenesis, intracellular immunostaining and fluorescence-activated cell sorting that enables the identification of regulatory factors independent of their effects on cellular fitness. We pioneered this approach by systematically probing the regulation of the transcription factor MYC, a master regulator of cell growth1–3. Our screens uncover a highly conserved protein, AKIRIN2, that is essentially required for nuclear protein degradation. We found that AKIRIN2 forms homodimers that directly bind to fully assembled 20S proteasomes to mediate their nuclear import. During mitosis, proteasomes are excluded from condensing chromatin and re-imported into newly formed daughter nuclei in a highly dynamic, AKIRIN2-dependent process. Cells undergoing mitosis in the absence of AKIRIN2 become devoid of nuclear proteasomes, rapidly causing accumulation of MYC and other nuclear proteins. Collectively, our study reveals a dedicated pathway controlling the nuclear import of proteasomes in vertebrates and establishes a scalable approach to decipher regulators in essential cellular processes. Using time-controlled CRISPR screens, the authors identify AKIRIN2 as a factor involved in the nuclear import of the proteasome.",
+		"link": "https://www.nature.com/articles/s41586-021-04035-8#Fig10"
+	},
+	{
+		"title": "Cometary evidence against the solar companion",
+		"desc": "",
+		"link": "https://www.nature.com/articles/286306a0"
+	},
+	{
+		"title": "Politics of popping pills",
+		"desc": "",
+		"link": "https://www.nature.com/articles/280718a0"
+	},
+	{
+		"title": "A census of cell types in the brain’s motor cortex",
+		"desc": "An atlas of the cell types found in the motor cortex of the brain has been built using various types of data. Two neuroscientists explain the technological feats involved in the project, as well as the utility of the resource for future research.  Diversity of brain cells classified using various data sets.",
+		"link": "https://www.nature.com/articles/d41586-021-02493-8"
+	},
+	{
+		"title": "Continuous cultures of fused cells secreting antibody of predefined specificity",
+		"desc": "THE manufacture of predefined specific antibodies by means of permanent tissue culture cell lines is of general interest. There are at present a considerable number of permanent cultures of myeloma cells1,2 and screening procedures have been used to reveal antibody activity in some of them. This, however, is not a satisfactory source of monoclonal antibodies of predefined specificity. We describe here the derivation of a number of tissue culture cell lines which secrete anti-sheep red blood cell (SRBC) antibodies. The cell lines are made by fusion of a mouse myeloma and mouse spleen cells from an immunised donor. To understand the expression and interactions of the Ig chains from the parental lines, fusion experiments between two known mouse myeloma lines were carried out.",
+		"link": "https://www.nature.com/articles/256495a0"
+	},
+	{
+		"title": "A Jupiter-mass companion to a solar-type star",
+		"desc": "The presence of a Jupiter-mass companion to the star 51 Pegasi is inferred from observations of periodic variations in the star’s radial velocity. The companion lies only about eight million kilometres from the star, which would be well inside the orbit of Mercury in our Solar System. This object might be a gas-giant planet that has migrated to this location through orbital evolution, or from the radiative stripping of a brown dwarf. In 1995, Michel Mayor and Didier Queloz made the first discovery of a planet outside our Solar System, in orbit around a Sun-like star in the constellation of Pegasus. Despite controversy over similar, earlier claims, Mayor and Queloz’s discovery has withstood the test of time. Their Jupiter-sized planet completes its orbit every 4.2 days - placing it at a distance from its star, 51 Pegasi, that is much less than the Sun-Mercury distance. ",
+		"link": "https://www.nature.com/articles/378355a0"
+	},
+	{
+		"title": "Sir Norman Lockyer K.C.B., F.R.S.",
+		"desc": "THE death of Sir Norman Lockyer on Monday last deprives the world of a great astronomer, and the nation of a force which it can ill afford to lose. Though it had been known for several months that Sir Norman was in a feeble state of health, his many friends cherished the hope that the vigour which was characteristic of him would revive, and that the devoted attention of his wife and daughter would preserve him o us for a few more years; but this was not to be. The alert mind and acute understanding which influenced so many men and advanced so much scientific work over a period of sixty years or so are now at rest, yet there remains to us a recollection which will not soon be effaced, and there stands in the archives of science a record of his achievement which will command admiration so long as the pursuit of knowledge is regarded as worthy human endeavour.",
+		"link": "https://www.nature.com/articles/105781a0"
+	},
+	{
+		"title": "Light-emitting diodes based on conjugated polymers",
+		"desc": "CONJUGATED polymers are organic semiconductors, the semiconducting behaviour being associated with the π molecular orbitals delocalized along the polymer chain. Their main advantage over non-polymeric organic semiconductors is the possibility of processing the polymer to form useful and robust structures. The response of the system to electronic excitation is nonlinear—the injection of an electron and a hole on the conjugated chain can lead to a self-localized excited state which can then decay radiatively, suggesting the possibility of using these materials in electroluminescent devices. We demonstrate here that poly(p-phenylene vinylene), prepared by way of a solution-processable precursor, can be used as the active element in a large-area light-emitting diode. The combination of good structural properties of this polymer, its ease of fabrication, and light emission in the green–yellow part of the spectrum with reasonably high efficiency, suggest that the polymer can be used for the development of large-area light-emitting displays. By 1990, the development of solid-state light-emitting diodes (LEDs) had come a long way. Efficient LEDs based on inorganic semiconductors had already found widespread application. Molecular organic semiconductors were also coming to the fore - not only were they available in a range of colours but, unlike their inorganic counterparts, they could be readily made into flexible, large-area displays. But physicists were encountering problems with the long-term stability of the organic films. Then Jeremy Burroughes and colleagues produced the first polymer LED: moving from molecular to macromolecular materials solved the stability problem and meant that high-quality films could be made easily.\n",
+		"link": "https://www.nature.com/articles/347539a0"
+	},
+	{
+		"title": "A Professorial University of London",
+		"desc": "THE recent history of the London University question affords decisive proof that the new University, which is to be the outcome of the labours of the Royal Commission now sitting, must be much more than a merely exclusive or merely local institution. Of the two main objects of a University in any English sense of the expression—the promotion of the higher education, and the advancement of learning—both must be equally subserved; and neither will be attained if the new University be established on other than the broadest possible basis, or if its development be controlled and hindered by rivalries that could not but become of an ignoble character. In the course of discussion it has been made abundantly clear that a duplication of Universities in London would be a misfortune of the first magnitude, dividing resources and diverting energies into channels that would lead to many undesirable results. It is equally clear that a University, consisting of a federation of local educational institutions existing within the same narrow area, would be wanting both in unity and force: its government would tend to become a succession of compromises effected between the interests, almost wholly of a financial nature, of its constituent Colleges. It may, then, be taken as a conclusion accepted by the great majority of those who have given special attention to the subject that there should be one University, and one only, in London, and that it should not be of a federal character. To this position it is a simple corollary that the government of the proposed University should be vested mainly in a professorial body. Much the most important work of the University would be the enactment of curricula and syllabuses and the control of teaching and examination—work that can only be efficiently performed by those specially familiar with the subjects taught. With the Professors a proper number of Crown nominees should be associated to act as moderators and as representatives of general educational policy, as well as to guard the interests and assure the continued confidence of the public. With the mode of creation and with the functions of the usual Faculties, and with the details of examinational systems, we need not at present concern ourselves. In fact, the less the new University is fettered by any Charter or Act the better, and it would be a misfortune were the precedent followed of the complicated and minutely detailed Charter recently rejected by the Convocation of the London University. On that occasion, it must be admitted, Convocation made good use of its veto, but its continued possession of such a power would, we think, be a source of disquiet and danger, without any corresponding advantage to Convocation itself, or the University—especially a professorial University—or indeed to the public. A much more useful provision would be the grant of a power of appeal to some such Committee of the Privy Council as that by whose aid the Scotch Universities are enabled to settle their differences.",
+		"link": "https://www.nature.com/articles/046121a0"
+	},
+	{
+		"title": "COVID antibody treatments show promise for preventing severe disease",
+		"desc": "But uptake by patients and physicians has been low in the United States, where some therapies have been authorized for months.  But uptake by patients and physicians has been low in the United States, where some therapies have been authorized for months.",
+		"link": "https://www.nature.com/articles/d41586-021-00650-7"
+	},
+	{
+		"title": "Nanometre-scale imaging and AI reveal the interior of whole cells",
+		"desc": "Efforts to generate nanoscale-resolution images of cell interiors have gained ground through the development and refinement of a microscopy method. The data sets are publicly available as resources for further discoveries.  Refinement of a microscopy method enables a detailed look inside cells.",
+		"link": "https://www.nature.com/articles/d41586-021-02776-0"
+	},
+	{
+		"title": "Hahn's Nobel was well deserved",
+		"desc": "",
+		"link": "https://www.nature.com/articles/383294b0"
+	},
+	{
+		"title": "‘Politicians shouldn’t meddle’: new chief of Europe’s major research funder shares priorities",
+		"desc": "Developmental geneticist Maria Leptin hopes to keep the European Research Council true to its founding mission.  Developmental geneticist Maria Leptin hopes to keep the European Research Council true to its founding mission.",
+		"link": "https://www.nature.com/articles/d41586-021-02885-w"
+	},
+	{
+		"title": "Postscript from a new hand",
+		"desc": "Although Nature is about to enter a period of change, its values are not.",
+		"link": "https://www.nature.com/articles/378649b0"
+	},
+	{
+		"title": "Distant Electric Vision",
+		"desc": "REFERRING to Mr. Shelford Bidwell’s illuminating communication on this subject published in NATURE of June 4, may I point out that though, as stated by Mr. Bidwell, it is wildly impracticable to effect even 160,000 synchronised operations per second by ordinary mechanical means, this part, of the problem of obtaining distant electric vision can probably be solved by the employment of two beams of kathode rays (one at the transmitting and one at the receiving station) synchronously deflected by the varying fields of two electromagnets placed at right angles to one another and energised by two alternating electric currents of widely different frequencies, so that the moving extremities of the two beams are caused to sweep synchronously over the whole of the required surfaces within the one-tenth of a second necessary to take advantage of visual persistence. The first all-electronic scheme for television was outlined by A. A. Campbell Swinton in 1908. Campbell Swinton imagined a receiving apparatus comprising an electron beam, deflected by electromagnets, scanning across a \"sensitive fluorescent screen\". He suggested that the camera might also incorporate a scanning electron beam, but anticipated that a new photoelectric phenomenon would need to be discovered, to make such a camera a reality.",
+		"link": "https://www.nature.com/articles/078151a0"
+	},
+	{
+		"title": "How a soft robot survived the deepest ocean on earth",
+		"desc": "Deep-sea fish inspires robot that can withstand the crushing pressures of the Mariana trench  Deep-sea fish inspires robot that can withstand the crushing pressures of the Mariana trench",
+		"link": "https://www.nature.com/articles/d41586-021-00605-y"
+	},
+	{
+		"title": "Untwisted trilayer graphene hosts superconductivity and magnetism",
+		"desc": "Superconductivity and magnetism have been observed in layered graphene in which the sheets are twisted with respect to each other. But a simpler, more stable graphene system also exhibits these phases.  Trilayer graphene system without a twist shows different phases.",
+		"link": "https://www.nature.com/articles/d41586-021-02773-3"
+	},
+	{
+		"title": "Lend an ear to a classic tale of mammalian evolution",
+		"desc": "Newly discovered fossil evidence has led to a re-evaluation of one of the fundamental transitions in mammalian evolution: the transformation of bones of the lower jaw into those of the middle ear.  Fossil evidence enables a re-evaluation of how the middle ear evolved.",
+		"link": "https://www.nature.com/articles/d41586-021-00064-5"
+	},
+	{
+		"title": "Liberation of Neutrons in the Nuclear Explosion of Uranium",
+		"desc": "RECENT experiments1,2 have revealed the existence of a new kind of nuclear reaction: neutron bombardment of uranium and thorium loads to an explosion of the nucleus, which splits up into particles of inferior charge and weight, a considerable amount of energy being liberated in this process. Assuming a partition into two particles only, so that the nuclear mass and charge of uranium have to be distributed between two lighter nuclei, the latter contain considerably more neutrons than the heaviest stable isotopes with the same nuclear charges. (A splitting into, for example, 98Rb and 141Cs means an excess of 11 neutrons in the first, and of 8 neutrons in the second of these two nuclei.) There seem to be two possibilities, of getting rid of this neutron excess. By the emission of a α′-ray, a neutron is transformed into a proton, thus reducing the neutron excess by two units; in the example given above, five and four successive α′-activities respectively would be needed to restore the neutron-proton stability ratio. In fact, the explosion products have been observed to be α-active and several periods have been recorded, so that a part, at least, of the neutron excess is certainly disposed of in this way. Another possible process is the direct liberation of neutrons, taking place either as a part of the explosion itself, or as an “evaporation” from the resulting nuclei which would be formed in an excited state.",
+		"link": "https://www.nature.com/articles/143470a0"
+	},
+	{
+		"title": "Positional cloning of the mouse obese gene and its human homologue",
+		"desc": "The mechanisms that balance food intake and energy expenditure determine who will be obese and who will be lean. One of the molecules that regulates energy balance in the mouse is the obese (ob) gene. Mutation ofobresults in profound obesity and type II diabetes as part of a syndrome that resembles morbid obesity in humans. The ob gene product may function as part of a signalling pathway from adipose tissue that acts to regulate the size of the body fat depot.",
+		"link": "https://www.nature.com/articles/372425a0"
+	},
+	{
+		"title": "The complete mitochondrial DNA genome of an unknown hominin from southern Siberia",
+		"desc": "Ancient mitochondrial DNA from a hominin individual who lived in the Altai Mountains in Southern Siberia between 48,000 and 30,000 years ago has been sequenced (\n                  http://go.nature.com/sokd1F\n                  \n                 for News story). Comparative genomics suggest that this mtDNA derives from an out-of-Africa migration distinct from those that gave rise to Neanderthals and modern humans. The stratigraphy of the Denisova Cave where the bone — part of the fifth 'little finger' digit — was excavated in 2008, suggests that this hominin lived close geographically to Neanderthals and modern humans, and at the same time. Taken with the presence of Homo floresiensis in Indonesia about 17,000 years ago, this discovery suggests that multiple late Pleistocene hominin lineages coexisted for long periods of time in Eurasia. Ancient mitochondrial DNA from a hominin individual who lived in the mountains of Central Asia between 48,000–30,000 years ago has been sequenced. Comparative genomics suggest that this mitochondrial DNA derives from an out-of-Africa migration distinct from the ones that gave rise to Neanderthals and modern humans. It also seems that this hominin lived in close spatio-temporal proximity to Neanderthals and modern humans. With the exception of Neanderthals, from which DNA sequences of numerous individuals have now been determined1, the number and genetic relationships of other hominin lineages are largely unknown. Here we report a complete mitochondrial (mt) DNA sequence retrieved from a bone excavated in 2008 in Denisova Cave in the Altai Mountains in southern Siberia. It represents a hitherto unknown type of hominin mtDNA that shares a common ancestor with anatomically modern human and Neanderthal mtDNAs about 1.0 million years ago. This indicates that it derives from a hominin migration out of Africa distinct from that of the ancestors of Neanderthals and of modern humans. The stratigraphy of the cave where the bone was found suggests that the Denisova hominin lived close in time and space with Neanderthals as well as with modern humans2,3,4.",
+		"link": "https://www.nature.com/articles/nature08976"
+	},
+	{
+		"title": "Chilean researchers unhappy following investigation of star neuroscientist",
+		"desc": "Committee found that University of Chile neuroscientist Claudio Hetz did not deliberately alter published images — but some researchers fear his practices set a poor precedent.  Committee found that University of Chile neuroscientist Claudio Hetz did not deliberately alter published images — but some researchers fear his practices set a poor precedent.",
+		"link": "http://www.nature.com/articles/d41586-021-02682-5"
+	},
+	{
+		"title": "Reductions of Antarctic ozone due to synergistic interactions of chlorine and bromine",
+		"desc": "The vertical column density of ozone observed in October over Antarctica has fallen precipitously over the past 10 yr. The concentration at Halley Bay (76° S 27° W), expressed conventionally in Dobson units (DU) (1 DU = 10−3 atmos. cm = 2.7×1016 molecules cm−2), has dropped from about 300 DU in 1975 to <200 DUin 1984 (ref. 1). Values in 1985 were even lower, comparable with the lowest values recorded anywhere on Earth2. We suggest here that the loss of O3 in Antarctica may be attributed to catalysis of O3 recombination by a scheme in which the rate-limiting step is defined by the reaction ClO+BrO→Cl+Br+O2. Concentrations of NO2 must be low and heterogenous reactions involving particles in the polar stratospheric clouds must be an important element of the relevant chemistry. Industrial sources make important contributions to the contemporary budgets of both BrO and ClO and are likely to grow significantly in the future.",
+		"link": "https://www.nature.com/articles/321759a0"
+	},
+	{
+		"title": "How quantum biology could help birds 'see' magnetic fields",
+		"desc": "Researchers home in on long-sought mechanism for magneto-sensing  Researchers home in on long-sought mechanism for magneto-sensing",
+		"link": "https://www.nature.com/articles/d41586-021-01725-1"
+	},
+	{
+		"title": "The Editor of NATURE",
+		"desc": "",
+		"link": "https://www.nature.com/articles/208732a0"
+	},
+	{
+		"title": "Disease variant prediction with deep generative models of evolutionary data",
+		"desc": "Quantifying the pathogenicity of protein variants in human disease-related genes would have a marked effect on clinical decisions, yet the overwhelming majority (over 98%) of these variants still have unknown consequences1–3. In principle, computational methods could support the large-scale interpretation of genetic variants. However, state-of-the-art methods4–10 have relied on training machine learning models on known disease labels. As these labels are sparse, biased and of variable quality, the resulting models have been considered insufficiently reliable11. Here we propose an approach that leverages deep generative models to predict variant pathogenicity without relying on labels. By modelling the distribution of sequence variation across organisms, we implicitly capture constraints on the protein sequences that maintain fitness. Our model EVE (evolutionary model of variant effect) not only outperforms computational approaches that rely on labelled data but also performs on par with, if not better than, predictions from high-throughput experiments, which are increasingly used as evidence for variant classification12–16. We predict the pathogenicity of more than 36 million variants across 3,219 disease genes and provide evidence for the classification of more than 256,000 variants of unknown significance. Our work suggests that models of evolutionary information can provide valuable independent evidence for variant interpretation that will be widely useful in research and clinical settings. A new computational method, EVE, classifies human genetic variants in disease genes using deep generative models trained solely on evolutionary sequences.",
+		"link": "https://www.nature.com/articles/s41586-021-04043-8#ref-CR12"
+	},
+	{
+		"title": "The many mentoring types explained",
+		"desc": "Reverse mentoring, peer-to-peer, group sessions. Choose one or more to tackle a tough career transition.  Reverse mentoring, peer-to-peer, group sessions. Choose one or more to tackle a tough career transition.",
+		"link": "https://www.nature.com/articles/d41586-021-02730-0"
+	},
+	{
+		"title": "Scientists in China say US government crackdown is harming collaborations",
+		"desc": "Investigations into foreign interference on US campuses have rattled researchers in both countries.   Investigations into foreign interference on US campuses have rattled researchers in both countries. ",
+		"link": "https://www.nature.com/articles/d41586-020-02015-y"
+	},
+	{
+		"title": "Deploy heat officers, policies and metrics",
+		"desc": "Cities need heat governance to plan for extreme temperatures and protect those most at risk.  Cities need heat governance to plan for extreme temperatures and protect those most at risk.",
+		"link": "https://www.nature.com/articles/d41586-021-02677-2"
+	},
+	{
+		"title": "Rogue antibodies could be driving severe COVID-19",
+		"desc": "Evidence is growing that self-attacking ‘autoantibodies’ could be the key to understanding some of the worst cases of SARS-CoV-2 infection.  Evidence is growing that self-attacking ‘autoantibodies’ could be the key to understanding some of the worst cases of SARS-CoV-2 infection.",
+		"link": "https://www.nature.com/articles/d41586-021-00149-1"
+	},
+	{
+		"title": "University under pressure to rehire scientist acquitted of hiding China links",
+		"desc": "Faculty members at the University of Tennessee Knoxville are demanding that nanotechnologist Anming Hu get his job back.  Faculty members at the University of Tennessee Knoxville are demanding that nanotechnologist Anming Hu get his job back.",
+		"link": "https://www.nature.com/articles/d41586-021-02603-6"
+	},
+	{
+		"title": "Mastering the game of Go with deep neural networks and tree search",
+		"desc": "The game of Go has long been viewed as the most challenging of classic games for artificial intelligence owing to its enormous search space and the difficulty of evaluating board positions and moves. Here we introduce a new approach to computer Go that uses ‘value networks’ to evaluate board positions and ‘policy networks’ to select moves. These deep neural networks are trained by a novel combination of supervised learning from human expert games, and reinforcement learning from games of self-play. Without any lookahead search, the neural networks play Go at the level of state-of-the-art Monte Carlo tree search programs that simulate thousands of random games of self-play. We also introduce a new search algorithm that combines Monte Carlo simulation with value and policy networks. Using this search algorithm, our program AlphaGo achieved a 99.8% winning rate against other Go programs, and defeated the human European Go champion by 5 games to 0. This is the first time that a computer program has defeated a human professional player in the full-sized game of Go, a feat previously thought to be at least a decade away. A computer Go program based on deep neural networks defeats a human professional player to achieve one of the grand challenges of artificial intelligence. The victory in 1997 of the chess-playing computer Deep Blue in a six-game series against the then world champion Gary Kasparov was seen as a significant milestone in the development of artificial intelligence. An even greater challenge remained — the ancient game of Go. Despite decades of refinement, until recently the strongest computers were still playing Go at the level of human amateurs. Enter AlphaGo. Developed by Google DeepMind, this program uses deep neural networks to mimic expert players, and further improves its performance by learning from games played against itself. AlphaGo has achieved a 99% win rate against the strongest other Go programs, and defeated the reigning European champion Fan Hui 5–0 in a tournament match. This is the first time that a computer program has defeated a human professional player in even games, on a full, 19 x 19 board, in even games with no handicap.",
+		"link": "https://www.nature.com/articles/nature16961"
+	},
+	{
+		"title": "Lessons from the ancient oral microbiome",
+		"desc": "Christina Warinner explains what the microorganisms that lived in our ancestors’ mouths reveal about human evolution and health.  Christina Warinner explains what the microorganisms that lived in our ancestors’ mouths reveal about human evolution and health.",
+		"link": "http://www.nature.com/articles/d41586-021-02921-9"
+	},
+	{
+		"title": "Electroacupuncture activates neurons to switch off inflammation",
+		"desc": "Neurons that express a specific molecular marker are activated by ‘electroacupuncture’ stimulation. They can then mediate the treatment’s anti-inflammatory effects in a mouse model of the inflammatory condition sepsis.  Sepsis in mice treated by stimulating marker-defined neurons.",
+		"link": "https://www.nature.com/articles/d41586-021-02714-0"
+	},
+	{
+		"title": "A Three-Dimensional Model of the Myoglobin Molecule Obtained by X-Ray Analysis",
+		"desc": "To understand how a protein performs its individual biological function, it is essential to know its three-dimensional structure. As early as 1934, J.D. Bernal and Dorothy Hodgkin (then Dorothy Crowfoot) showed [Bernal, J. D. & Crowfoot, D. Nature 133, 794–795 (1934)] that proteins, when crystallized, would diffract X-rays to produce a complex pattern of spots. They knew that these patterns contained all the information needed to determine a protein–s structure but, frustratingly, that information could not be deciphered. By comparing patterns from crystals containing different heavy-metal atoms, Max Perutz and colleagues devised the approach that was to solve this riddle. In 1958, J. C. Kendrew et al. applied Perutz–s technique to produce the first three-dimensional images of any protein - myoglobin, the protein used by muscles to store oxygen.",
+		"link": "https://www.nature.com/articles/181662a0"
+	},
+	{
+		"title": "Mathematics out of molehills",
+		"desc": "",
+		"link": "https://www.nature.com/articles/257003a0"
+	},
+	{
+		"title": "Rhinoceros genomes uncover family secrets",
+		"desc": "Genomes from living and extinct rhinos reveal that different species evolved as a result of geographic isolation. A comparison of DNA from different species also shows that rhinos have long displayed low genetic variability.  Speciation of rhinos might have resulted from geographic isolation.",
+		"link": "https://www.nature.com/articles/d41586-021-02777-z"
+	},
+	{
+		"title": "A new home for Nature India",
+		"desc": "Revamped regional portal moves to nature.com where readers will find comprehensive coverage of India’s science. Revamped regional portal moves to nature.com where readers will find comprehensive coverage of India’s science.",
+		"link": "https://www.nature.com/articles/d44151-021-00053-7"
+	},
+	{
+		"title": "Nature and the War",
+		"desc": "UNDER the title “An American Message”, we publish on p. 329 of this issue a complimentary note from the managing editor, associate editor and staff of the Bell Laboratories Record, the monthly journal of the Bell Telephone Laboratories, Inc. These Laboratories, which form one of the largest industrial research centres in the world, are well known to physicists and engineers for their research on electronic physics, chemistry, magnetism, optics, radio, applied mathematics, speech and hearing, and generation and modulation of electrical currents. Such a communication is very encouraging, and no doubt British readers will receive it with pleasure. This American message is merely a reflexion of the main body of opinion in the United States, finally endorsed by the signing of the Lease and Lend Bill by President Roosevelt on March 11, after it had been approved by the House of Representatives by the overwhelming majority of 317 to 71.",
+		"link": "https://www.nature.com/articles/147321a0"
+	},
+	{
+		"title": "Cassyni aims to make online seminars more findable and citable",
+		"desc": "The software tool enables webinar organizers to plan events, issue reminders and archive the results, says its co-founder.  The software tool enables webinar organizers to plan events, issue reminders and archive the results, says its co-founder.",
+		"link": "http://www.nature.com/articles/d41586-021-02983-9"
+	},
+	{
+		"title": "Dispatched uses Na+ flux to power release of lipid-modified Hedgehog",
+		"desc": "The Dispatched protein, which is related to the NPC1 and PTCH1 cholesterol transporters1,2 and to H+-driven transporters of the RND family3,4, enables tissue-patterning activity of the lipid-modified Hedgehog protein by releasing it from tightly -localized sites of embryonic expression5–10. Here we determine a cryo-electron microscopy structure of the mouse protein Dispatched homologue 1 (DISP1), revealing three Na+ ions coordinated within a channel that traverses its transmembrane domain. We find that the rate of Hedgehog export is dependent on the Na+ gradient across the plasma membrane. The transmembrane channel and Na+ binding are disrupted in DISP1-NNN, a variant with asparagine substitutions for three intramembrane aspartate residues that each coordinate and neutralize the charge of one of the three Na+ ions. DISP1-NNN and variants that disrupt single Na+ sites retain binding to, but are impaired in export of the lipid-modified Hedgehog protein to the SCUBE2 acceptor. Interaction of the amino-terminal signalling domain of the Sonic hedgehog protein (ShhN) with DISP1 occurs via an extensive buried surface area and contacts with an extended furin-cleaved DISP1 arm. Variability analysis reveals that ShhN binding is restricted to one extreme of a continuous series of DISP1 conformations. The bound and unbound DISP1 conformations display distinct Na+-site occupancies, which suggests a mechanism by which transmembrane Na+ flux may power extraction of the lipid-linked Hedgehog signal from the membrane. Na+-coordinating residues in DISP1 are conserved in PTCH1 and other metazoan RND family members, suggesting that Na+ flux powers their conformationally driven activities. Cryo-electron microscopy studies show that dynamic coordination of Na+ in the ion channel of Dispatched homologue 1 and the transmembrane Na+ gradient have key roles in exporting lipid-modified Hedgehog protein signal.",
+		"link": "https://www.nature.com/articles/s41586-021-03996-0#ref-CR3"
+	},
+	{
+		"title": " The War—and After ",
+		"desc": "THE terrible war which is now raging, not only near our shores, but also much further afield, is teaching us many lessons, among them that the things which make most for a nation's life are apt not to be considered by the partisans of party politics. But it also shows that the British nation is sound enough at heart to throw off the trammels of party politics when a supreme moment arrives. Such a supreme moment is now on us and Britain is struggling for life with a foe who now shows his true colours. Many of us have been great admirers of Germany and German achievements along many lines, but we have now learned that her “culture” and admirable organisation have not been acquired, as we do not doubt was thought by the workers themselves, for the purpose of advancing knowledge and civilisation, but, in continuation of a settled policy, they have been fostered and used in order that a military caste in Germany, with the Kaiser at its head, shall ride roughshod over Europe, all treaties and national rights abrogated, all conventions set aside, all honour thrown to the winds, all laws of war and even of humanity disregarded. We are back in the days of the Huns. There is no doubt that in the complete plan of the great schemer the conquest and subsequent effacement of Britain were included.",
+		"link": "https://www.nature.com/articles/094029a0"
+	},
+	{
+		"title": "A.J.V. Gale 1895-1978",
+		"desc": "",
+		"link": "https://www.nature.com/articles/275081b0"
+	},
+	{
+		"title": "Experimental quantum teleportation",
+		"desc": "Quantum teleportation — the transmission and reconstruction over arbitrary distances of the state of a quantum system — is demonstrated experimentally. During teleportation, an initial photon which carries the polarization that is to be transferred and one of a pair of entangled photons are subjected to a measurement such that the second photon of the entangled pair acquires the polarization of the initial photon. This latter photon can be arbitrarily far away from the initial one. Quantum teleportation will be a critical ingredient for quantum computation networks. Quantum teleportation is the transmission and reconstruction of the state of a quantum system - an idea that was demonstrated experimentally by Dik Bouwmeester and colleagues in 1997. As their principal teleportation resource, the team used a pair of entangled photons; to effect the teleportation, they initiated a measurement involving one photon of the pair and a third photon. As a consequence of this interaction, the state of polarization of the third photon was transferred perfectly to the second photon of the entangled pair. In principle, this process should work even if the teleportation takes place over an arbitrarily large distance.",
+		"link": "https://www.nature.com/articles/37539"
+	},
+	{
+		"title": "Securing the Foundations",
+		"desc": "Nature soon became the recognized forum for scientific debate in Britain. Few of the competitors of Nature from the nineteenth century have survived, but for many years Nature's finances left much to be desired.",
+		"link": "https://www.nature.com/articles/224441a0"
+	},
+	{
+		"title": "Monitoring Underground Explosions",
+		"desc": "Seismological means for detecting and identifying underground nuclear explosions have improved steadily during the past ten years. A technique exists for separating explosions from earthquakes. The problem now is lowering the threshold and understanding the occasional problematic event.",
+		"link": "https://www.nature.com/articles/241019a0"
+	},
+	{
+		"title": "Nato, France and the neutron bomb",
+		"desc": "",
+		"link": "https://www.nature.com/articles/286194a0"
+	},
+	{
+		"title": "Young people’s mental health is finally getting the attention it needs",
+		"desc": "The COVID-19 pandemic, a UNICEF report and a review of the latest research all highlight the urgent need for better prevention and treatment of youth anxiety and depression.  The COVID-19 pandemic, a UNICEF report and a review of the latest research all highlight the urgent need for better prevention and treatment of youth anxiety and depression.",
+		"link": "https://www.nature.com/articles/d41586-021-02690-5"
+	},
+	{
+		"title": "Single-channel currents recorded from membrane of denervated frog muscle fibres",
+		"desc": "THE ionic channel associated with the acetylcholine (ACh) receptor at the neuromuscular junction of skeletal muscle fibres is probably the best described channel in biological membranes. Nevertheless, the properties of individual channels are still unknown, as previous studies were concerned with average population properties. Macroscopic conductance fluctuations occurring in the presence of ACh were analysed to provide estimates for single channel conductance and mean open times1–3. The values obtained, however, depended on assumptions about the shape of the elementary conductance contribution—for example, that the elementary contribution is a square pulse-like event2. Clearly, it would be of great interest to refine techniques of conductance measurement in order to resolve discrete changes in conductance which are expected to occur when single channels open or close. This has not been possible so far because of excessive extraneous background noise. We report on a more sensitive method of conductance measurement, which, in appropriate conditions, reveals discrete changes in conductance that show many of the features that have been postulated for single ionic channels.",
+		"link": "https://www.nature.com/articles/260799a0"
+	},
+	{
+		"title": "AKIRIN2 controls the nuclear import of proteasomes in vertebrates",
+		"desc": "Protein expression and turnover are controlled through a complex interplay of transcriptional, post-transcriptional and post-translational mechanisms to enable spatial and temporal regulation of cellular processes. To systematically elucidate such gene regulatory networks, we developed a CRISPR screening assay based on time-controlled Cas9 mutagenesis, intracellular immunostaining and fluorescence-activated cell sorting that enables the identification of regulatory factors independent of their effects on cellular fitness. We pioneered this approach by systematically probing the regulation of the transcription factor MYC, a master regulator of cell growth1–3. Our screens uncover a highly conserved protein, AKIRIN2, that is essentially required for nuclear protein degradation. We found that AKIRIN2 forms homodimers that directly bind to fully assembled 20S proteasomes to mediate their nuclear import. During mitosis, proteasomes are excluded from condensing chromatin and re-imported into newly formed daughter nuclei in a highly dynamic, AKIRIN2-dependent process. Cells undergoing mitosis in the absence of AKIRIN2 become devoid of nuclear proteasomes, rapidly causing accumulation of MYC and other nuclear proteins. Collectively, our study reveals a dedicated pathway controlling the nuclear import of proteasomes in vertebrates and establishes a scalable approach to decipher regulators in essential cellular processes. Using time-controlled CRISPR screens, the authors identify AKIRIN2 as a factor involved in the nuclear import of the proteasome.",
+		"link": "https://www.nature.com/articles/s41586-021-04035-8#Fig3"
+	},
+	{
+		"title": "What COVID vaccines for young kids could mean for the pandemic",
+		"desc": "As the US Food and Drug Administration authorizes shots for children aged 5 to 11, researchers predict what this might mean for populations.  As the US Food and Drug Administration authorizes shots for children aged 5 to 11, researchers predict what this might mean for populations.",
+		"link": "https://www.nature.com/articles/d41586-021-02947-z"
+	},
+	{
+		"title": "Valediction from an old hand",
+		"desc": "John Maddox steps down as editor of Nature from this issue, to be replaced by Dr Philip Campbell.",
+		"link": "https://www.nature.com/articles/378521a0"
+	},
+	{
+		"title": "Nucleotide sequence of bacteriophage φX174 DNA",
+		"desc": "A DNA sequence for the genome of bacteriophage φX174 of approximately 5,375 nucleotides has been determined using the rapid and simple ‘plus and minus’ method. The sequence identifies many of the features responsible for the production of the proteins of the nine known genes of the organism, including initiation and termination sites for the proteins and RNAs. Two pairs of genes are coded by the same region of DNA using different reading frames.",
+		"link": "https://www.nature.com/articles/265687a0"
+	},
+	{
+		"title": "Hypervariable ‘minisatellite’ regions in human DNA",
+		"desc": "The human genome contains many dispersed tandem-repetitive ‘minisatellite’ regions detected via a shared 10–15-base pair ‘core’ sequence similar to the generalized recombination signal (χ) of Escherichia coli. Many minisatellites are highly polymorphic due to allelic variation in repeat copy number in the minisatellite. A probe based on a tandem-repeat of the core sequence can detect many highly variable loci simultaneously and can provide an individual-specific DNA ‘fingerprint’ of general use in human genetic analysis.",
+		"link": "https://www.nature.com/articles/314067a0"
+	},
+	{
+		"title": " The British Science Guild ",
+		"desc": "THE inaugural meeting of the British Science Guild will be held at the Mansion House on Monday, October 30; and the Lord Mayor, who has consented to preside, will take the chair at 4.15 p.m. The guild appeals to the people of Britain within and beyond the seas, and its chief object is to bring home to all classes the necessity of making the scientific spirit a national characteristic which shall inspire progress and determine the policy in affairs of all kinds. The organisation is associated with no political party, and its membership is open to all British subjects, whether men or women.",
+		"link": "https://www.nature.com/articles/072585a0"
+	},
+	{
+		"title": "Announcement: Reducing our irreproducibility",
+		"desc": "",
+		"link": "https://www.nature.com/news/announcement-reducing-our-irreproducibility-1.12852"
+	},
+	{
+		"title": "Dispatched uses Na+ flux to power release of lipid-modified Hedgehog",
+		"desc": "The Dispatched protein, which is related to the NPC1 and PTCH1 cholesterol transporters1,2 and to H+-driven transporters of the RND family3,4, enables tissue-patterning activity of the lipid-modified Hedgehog protein by releasing it from tightly -localized sites of embryonic expression5–10. Here we determine a cryo-electron microscopy structure of the mouse protein Dispatched homologue 1 (DISP1), revealing three Na+ ions coordinated within a channel that traverses its transmembrane domain. We find that the rate of Hedgehog export is dependent on the Na+ gradient across the plasma membrane. The transmembrane channel and Na+ binding are disrupted in DISP1-NNN, a variant with asparagine substitutions for three intramembrane aspartate residues that each coordinate and neutralize the charge of one of the three Na+ ions. DISP1-NNN and variants that disrupt single Na+ sites retain binding to, but are impaired in export of the lipid-modified Hedgehog protein to the SCUBE2 acceptor. Interaction of the amino-terminal signalling domain of the Sonic hedgehog protein (ShhN) with DISP1 occurs via an extensive buried surface area and contacts with an extended furin-cleaved DISP1 arm. Variability analysis reveals that ShhN binding is restricted to one extreme of a continuous series of DISP1 conformations. The bound and unbound DISP1 conformations display distinct Na+-site occupancies, which suggests a mechanism by which transmembrane Na+ flux may power extraction of the lipid-linked Hedgehog signal from the membrane. Na+-coordinating residues in DISP1 are conserved in PTCH1 and other metazoan RND family members, suggesting that Na+ flux powers their conformationally driven activities. Cryo-electron microscopy studies show that dynamic coordination of Na+ in the ion channel of Dispatched homologue 1 and the transmembrane Na+ gradient have key roles in exporting lipid-modified Hedgehog protein signal.",
+		"link": "https://www.nature.com/articles/s41586-021-03996-0#MOESM1"
+	},
+	{
+		"title": "Questions yet unanswered",
+		"desc": "",
+		"link": "https://www.nature.com/articles/372013a0"
+	},
+	{
+		"title": "The best cosmology there is",
+		"desc": "",
+		"link": "https://www.nature.com/articles/372015a0"
+	},
+	{
+		"title": "Venus might never have been habitable",
+		"desc": "A sophisticated climate model suggests that liquid-water oceans never formed on Venus, and that some planets outside the Solar System that were thought to be habitable might not be.  Climate model suggests that liquid-water oceans didn’t form on Venus.",
+		"link": "https://www.nature.com/articles/d41586-021-02720-2"
+	},
+	{
+		"title": "Coronapod: Variants – what you need to know",
+		"desc": "Researchers are scrambling to understand the biology of new coronavirus variants and the impact they might have on vaccine efficacy.  Hear the latest science from the coronavirus pandemic.",
+		"link": "https://www.nature.com/articles/d41586-021-00320-8"
+	},
+	{
+		"title": "Disease variant prediction with deep generative models of evolutionary data",
+		"desc": "Quantifying the pathogenicity of protein variants in human disease-related genes would have a marked effect on clinical decisions, yet the overwhelming majority (over 98%) of these variants still have unknown consequences1–3. In principle, computational methods could support the large-scale interpretation of genetic variants. However, state-of-the-art methods4–10 have relied on training machine learning models on known disease labels. As these labels are sparse, biased and of variable quality, the resulting models have been considered insufficiently reliable11. Here we propose an approach that leverages deep generative models to predict variant pathogenicity without relying on labels. By modelling the distribution of sequence variation across organisms, we implicitly capture constraints on the protein sequences that maintain fitness. Our model EVE (evolutionary model of variant effect) not only outperforms computational approaches that rely on labelled data but also performs on par with, if not better than, predictions from high-throughput experiments, which are increasingly used as evidence for variant classification12–16. We predict the pathogenicity of more than 36 million variants across 3,219 disease genes and provide evidence for the classification of more than 256,000 variants of unknown significance. Our work suggests that models of evolutionary information can provide valuable independent evidence for variant interpretation that will be widely useful in research and clinical settings. A new computational method, EVE, classifies human genetic variants in disease genes using deep generative models trained solely on evolutionary sequences.",
+		"link": "https://www.nature.com/articles/s41586-021-04043-8#ref-CR33"
+	},
+	{
+		"title": "Structure of Hæmoglobin: A Three-Dimensional Fourier Synthesis at 5.5-Å. Resolution, Obtained by X-Ray Analysis",
+		"desc": "",
+		"link": "https://www.nature.com/articles/185416a0"
+	},
+	{
+		"title": "Hurricane Ida shows the one-two punch of poverty and climate change",
+		"desc": "US President Joe Biden’s environmental-justice adviser says: tackle inequality and global warming together.  US President Joe Biden’s environmental-justice adviser says: tackle inequality and global warming together.",
+		"link": "https://www.nature.com/articles/d41586-021-02520-8"
+	},
+	{
+		"title": "Dispatched uses Na+ flux to power release of lipid-modified Hedgehog",
+		"desc": "The Dispatched protein, which is related to the NPC1 and PTCH1 cholesterol transporters1,2 and to H+-driven transporters of the RND family3,4, enables tissue-patterning activity of the lipid-modified Hedgehog protein by releasing it from tightly -localized sites of embryonic expression5–10. Here we determine a cryo-electron microscopy structure of the mouse protein Dispatched homologue 1 (DISP1), revealing three Na+ ions coordinated within a channel that traverses its transmembrane domain. We find that the rate of Hedgehog export is dependent on the Na+ gradient across the plasma membrane. The transmembrane channel and Na+ binding are disrupted in DISP1-NNN, a variant with asparagine substitutions for three intramembrane aspartate residues that each coordinate and neutralize the charge of one of the three Na+ ions. DISP1-NNN and variants that disrupt single Na+ sites retain binding to, but are impaired in export of the lipid-modified Hedgehog protein to the SCUBE2 acceptor. Interaction of the amino-terminal signalling domain of the Sonic hedgehog protein (ShhN) with DISP1 occurs via an extensive buried surface area and contacts with an extended furin-cleaved DISP1 arm. Variability analysis reveals that ShhN binding is restricted to one extreme of a continuous series of DISP1 conformations. The bound and unbound DISP1 conformations display distinct Na+-site occupancies, which suggests a mechanism by which transmembrane Na+ flux may power extraction of the lipid-linked Hedgehog signal from the membrane. Na+-coordinating residues in DISP1 are conserved in PTCH1 and other metazoan RND family members, suggesting that Na+ flux powers their conformationally driven activities. Cryo-electron microscopy studies show that dynamic coordination of Na+ in the ion channel of Dispatched homologue 1 and the transmembrane Na+ gradient have key roles in exporting lipid-modified Hedgehog protein signal.",
+		"link": "https://www.nature.com/articles/s41586-021-03996-0#ref-CR24"
+	},
+	{
+		"title": "Joint Editorship of Nature: Mr. A. J. V. Gale",
+		"desc": "",
+		"link": "https://www.nature.com/articles/193017b0"
+	},
+	{
+		"title": "Polar Wandering: Some Geological, Dynamical and Palaeomagnetic Aspects",
+		"desc": "",
+		"link": "https://www.nature.com/articles/176422a0"
+	},
+	{
+		"title": "Is the brain a computer?",
+		"desc": "",
+		"link": "https://www.nature.com/articles/372035a0"
+	},
+	{
+		"title": "Disease variant prediction with deep generative models of evolutionary data",
+		"desc": "Quantifying the pathogenicity of protein variants in human disease-related genes would have a marked effect on clinical decisions, yet the overwhelming majority (over 98%) of these variants still have unknown consequences1–3. In principle, computational methods could support the large-scale interpretation of genetic variants. However, state-of-the-art methods4–10 have relied on training machine learning models on known disease labels. As these labels are sparse, biased and of variable quality, the resulting models have been considered insufficiently reliable11. Here we propose an approach that leverages deep generative models to predict variant pathogenicity without relying on labels. By modelling the distribution of sequence variation across organisms, we implicitly capture constraints on the protein sequences that maintain fitness. Our model EVE (evolutionary model of variant effect) not only outperforms computational approaches that rely on labelled data but also performs on par with, if not better than, predictions from high-throughput experiments, which are increasingly used as evidence for variant classification12–16. We predict the pathogenicity of more than 36 million variants across 3,219 disease genes and provide evidence for the classification of more than 256,000 variants of unknown significance. Our work suggests that models of evolutionary information can provide valuable independent evidence for variant interpretation that will be widely useful in research and clinical settings. A new computational method, EVE, classifies human genetic variants in disease genes using deep generative models trained solely on evolutionary sequences.",
+		"link": "https://www.nature.com/articles/s41586-021-04043-8#Fig1"
+	},
+	{
+		"title": "Cost of rooftop panel electricity potential cheapest in India",
+		"desc": "Comprehensive global study has implications for development planning Comprehensive global study has implications for development planning",
+		"link": "https://www.nature.com/articles/d44151-021-00054-6"
+	},
+	{
+		"title": "Coronavirus breakthrough: dexamethasone is first drug shown to save lives",
+		"desc": "In a large trial, a cheap and widely available steroid cut deaths by one-third among patients critically ill with COVID-19.  In a large trial, a cheap and widely available steroid cut deaths by one-third among patients critically ill with COVID-19.",
+		"link": "https://www.nature.com/articles/d41586-020-01824-5"
+	},
+	{
+		"title": "COVID vaccines to reach poorest countries in 2023 — despite recent pledges",
+		"desc": "Amid a COVID surge in Africa, vaccine promises from richer nations are not enough to bring an early end to the pandemic, experts say.  Amid a COVID surge in Africa, vaccine promises from richer nations are not enough to bring an early end to the pandemic, experts say.",
+		"link": "https://www.nature.com/articles/d41586-021-01762-w"
+	},
+	{
+		"title": "A model for diversifying faculty recruitment",
+		"desc": "When junior researchers Kyle Thomas and Karena Nguyen joined a search committee, they came up with a way to put equity and inclusion centre stage.  When junior researchers Kyle Thomas and Karena Nguyen joined a search committee, they came up with a way to put equity and inclusion centre stage.",
+		"link": "https://www.nature.com/articles/d41586-021-02726-w"
+	},
+	{
+		"title": "US officials revisit rules for disclosing risky disease experiments",
+		"desc": "An expert panel is considering how much to reveal about a largely secret review process of 'gain-of-function' research.   An expert panel is considering how much to reveal about a largely secret review process of 'gain-of-function' research. ",
+		"link": "https://www.nature.com/articles/d41586-020-00210-5"
+	},
+	{
+		"title": "Giant, free index to world’s research papers released online",
+		"desc": "Catalogue of billions of phrases from 107 million papers could ease computerized searching of the literature.  Catalogue of billions of phrases from 107 million papers could ease computerized searching of the literature.",
+		"link": "https://www.nature.com/articles/d41586-021-02895-8"
+	},
+	{
+		"title": "On the depletion of Antarctic ozone",
+		"desc": "Recent observations by Farman et al.1 reveal remarkable depletions in the total atmospheric ozone content in Antarctica. The observed total ozone decreased smoothly during the period from about 1975 to the present, but only in the spring season. The observed ozone content at Halley Bay was ∼30% lower in the Antarctic spring seasons (October) of 1980–84 than in the springs of 1957–73. No such obvious perturbation is observable in other seasons, or at other than the very highest latitudes in the Southern Hemisphere, and the magnitude of the observed change there far exceeds climatological variability2. We present here balloonsonde ozone data3,4 which show that these ozone changes are largely confined to the region from about 10 to 20 km, during the period August to October. We show that homogeneous (gas phase) chemistry as presently understood cannot explain these observed depletions. On the other hand, a unique feature of the Antarctic lower stratosphere is its high frequency of polar stratospheric clouds5, providing a reaction site for heterogeneous reactions. A heterogeneous reaction between HCl and ClONO2 is explored as a possible mechanism to explain the ozone observations. This process produces changes in ozone that are consistent with the observations, and its implications for the behaviour of HNO3 and NO2 in the Antarctic stratosphere are consistent with observations of those species there, providing an important check on the proposed mechanism. Similar ozone changes are obtained with another possible heterogeneous reaction, H2O + ClONO2.",
+		"link": "https://www.nature.com/articles/321755a0"
+	},
+	{
+		"title": "Structure of Hen Egg-White Lysozyme: A Three-dimensional Fourier Synthesis at 2 Å Resolution",
+		"desc": "",
+		"link": "https://www.nature.com/articles/206757a0"
+	},
+	{
+		"title": "What magic formula for success?",
+		"desc": "Japan's success in world markets is the envy of the West. Where does science come in the success story?",
+		"link": "https://www.nature.com/articles/305355a0"
+	},
+	{
+		"title": "C60: Buckminsterfullerene",
+		"desc": "During experiments aimed at understanding the mechanisms by which long-chain carbon molecules are formed in interstellar space and circumstellar shells1, graphite has been vaporized by laser irradiation, producing a remarkably stable cluster consisting of 60 carbon atoms. Concerning the question of what kind of 60-carbon atom structure might give rise to a superstable species, we suggest a truncated icosahedron, a polygon with 60 vertices and 32 faces, 12 of which are pentagonal and 20 hexagonal. This object is commonly encountered as the football shown in Fig. 1. The C60 molecule which results when a carbon atom is placed at each vertex of this structure has all valences satisfied by two single bonds and one double bond, has many resonance structures, and appears to be aromatic. Before 1985, it was generally accepted that elemental carbon exists in two forms, or allotropes: diamond and graphite. Then, Kroto et al. identified the signature of a new, stable form of carbon that consisted of clusters of 60 atoms. They called this third allotrope of carbon 'buckminsterfullerene', and proposed that it consisted of polyhedral molecules in which the atoms were arrayed at the vertices of a truncated icosahedron. In 1990, the synthesis of large quantities of C60 [see Nature 347, 354–358 (1990)] confirmed this hypothesis.",
+		"link": "https://www.nature.com/articles/318162a0"
+	},
+	{
+		"title": "US civil-rights group offers support to researchers facing China scrutiny",
+		"desc": "As the United States continues its crack-down on research espionage, scientists seek legal resources and advice.  As the United States continues its crack-down on research espionage, scientists seek legal resources and advice.",
+		"link": "https://www.nature.com/articles/d41586-020-02846-9"
+	},
+	{
+		"title": "DNA reveals surprise ancestry of mysterious Chinese mummies",
+		"desc": "The genomes of 13 remarkably preserved 4,000-year-old mummies from the Tarim Basin suggest they weren’t migrants who brought technology from the west, as previously supposed.   The genomes of 13 remarkably preserved 4,000-year-old mummies from the Tarim Basin suggest they weren’t migrants who brought technology from the west, as previously supposed. ",
+		"link": "http://www.nature.com/articles/d41586-021-02948-y"
+	},
+	{
+		"title": "Jack Brimble",
+		"desc": "",
+		"link": "https://www.nature.com/articles/208819a0"
+	},
+	{
+		"title": "Spray no more, ladies",
+		"desc": "",
+		"link": "https://www.nature.com/articles/257441a0"
+	},
+	{
+		"title": "Three-dimensional simulation of large-scale structure in the Universe",
+		"desc": "Three-dimensional numerical simulations of the nonlinear growth of adiabatic perturbations in collisionless matter demonstrate that a cellular structure develops in the Universe. This dark matter collapses into interconnecting dense regions surrounding large voids, or low density regions. The models presented here were done with a cloud-in-cell (CIC) code using a very large number, nearly 9 × 105, of clouds. Such a large number of clouds provides adequate coverage of the voids, eliminates spurious clumping in both the high- and low-density regions, and is a significant improvement over earlier three-dimensional simulations of the cellular structure. We consider here both high (Ω0 = 1.07) and low (Ω0 = 0.1) density models. Our simulations clearly show that the interconnecting dense regions contain both filamentary and flat, pancake-shaped structures. Furthermore, the interactions among neighbouring structures are important and produce matter flows towards the dense intersections. The low-density voids which develop are approximately spherically symmetric in shape. As the voids expand, they collide and intersect. The covariance function ξ(R) has a power law form at small radii, with anticorrelation found just beyond the break and no sizeable features at larger radii.",
+		"link": "https://www.nature.com/articles/305196a0"
+	},
+	{
+		"title": "Dispatched uses Na+ flux to power release of lipid-modified Hedgehog",
+		"desc": "The Dispatched protein, which is related to the NPC1 and PTCH1 cholesterol transporters1,2 and to H+-driven transporters of the RND family3,4, enables tissue-patterning activity of the lipid-modified Hedgehog protein by releasing it from tightly -localized sites of embryonic expression5–10. Here we determine a cryo-electron microscopy structure of the mouse protein Dispatched homologue 1 (DISP1), revealing three Na+ ions coordinated within a channel that traverses its transmembrane domain. We find that the rate of Hedgehog export is dependent on the Na+ gradient across the plasma membrane. The transmembrane channel and Na+ binding are disrupted in DISP1-NNN, a variant with asparagine substitutions for three intramembrane aspartate residues that each coordinate and neutralize the charge of one of the three Na+ ions. DISP1-NNN and variants that disrupt single Na+ sites retain binding to, but are impaired in export of the lipid-modified Hedgehog protein to the SCUBE2 acceptor. Interaction of the amino-terminal signalling domain of the Sonic hedgehog protein (ShhN) with DISP1 occurs via an extensive buried surface area and contacts with an extended furin-cleaved DISP1 arm. Variability analysis reveals that ShhN binding is restricted to one extreme of a continuous series of DISP1 conformations. The bound and unbound DISP1 conformations display distinct Na+-site occupancies, which suggests a mechanism by which transmembrane Na+ flux may power extraction of the lipid-linked Hedgehog signal from the membrane. Na+-coordinating residues in DISP1 are conserved in PTCH1 and other metazoan RND family members, suggesting that Na+ flux powers their conformationally driven activities. Cryo-electron microscopy studies show that dynamic coordination of Na+ in the ion channel of Dispatched homologue 1 and the transmembrane Na+ gradient have key roles in exporting lipid-modified Hedgehog protein signal.",
+		"link": "https://www.nature.com/articles/s41586-021-03996-0#ref-CR54"
+	},
+	{
+		"title": "Neutrinos from the recent LMC supernova",
+		"desc": "In 1987, a supernova exploded in the nearby Large Magellanic Cloud. Bahcall, Dar and Piran were quick to point out in Nature that a neutrino burst from the collapsing star should have reached Earth and that, if detected, it would provide “a unique opportunity to test the theory of neutron star formation in Type II supernova explosions”. A note added in proof to their ‘Scientific Correspondence’ confirmed that the Kamiokande neutrino detector in Japan had indeed picked up a signal. The Kamiokande data also afforded the first opportunity to determine the mass of the electron neutrino from astronomical data. A few weeks later, in a letter to Nature, Bahcall and Glashow had set an upper limit on the electron neutrino mass at 11 eV.\n",
+		"link": "https://www.nature.com/articles/326135a0"
+	},
+	{
+		"title": "Cave art in the tropics",
+		"desc": "From the award-winning Nature Video team",
+		"link": "https://www.nature.com/articles/d41586-019-00382-9"
+	},
+	{
+		"title": "Introduction",
+		"desc": "SINCE 1905, when Prof. A. Einstein published his Principle of Relativity in its special form, much attention has been devoted to the subject in scientific circles, and during the last two or three years keen interest has been shown in it by many general readers of intellectual type. Nearly a thousand books, pamphlets, and papers have appeared in which the principle as a whole is described, or some of its aspects are discussed, and among these are a few which aim at making its character and consequences clear without the mathematical expressions which give it precise significance. A praiseworthy essay of this kind is that by Mr. L. Bolton, a senior examiner in the Patent Office, published in the Westminster Gazette on Monday by arrangement with the Scientific American, which awarded it a prize of five thousand dollars as the clearest explanation of Einstein's principle for general readers.",
+		"link": "https://www.nature.com/articles/106781a0"
+	},
+	{
+		"title": "Publishing on the semantic web",
+		"desc": "The coming Internet revolution will profoundly affect scientific information.",
+		"link": "https://www.nature.com/articles/35074206"
+	},
+	{
+		"title": "COVID super-immunity: one of the pandemic’s great puzzles",
+		"desc": "People who have previously recovered from COVID-19 have a stronger immune response after being vaccinated than those who have never been infected. Scientists are trying to find out why.  People who have previously recovered from COVID-19 have a stronger immune response after being vaccinated than those who have never been infected. Scientists are trying to find out why.",
+		"link": "https://www.nature.com/articles/d41586-021-02795-x"
+	},
+	{
+		"title": "Role of bile acids and gut bacteria in healthy ageing of centenarians",
+		"desc": "A study in humans indicates that certain bile acids that are produced by bacteria and commonly found in people over 100 boost gut health and protect against infection. These findings shed light on the contributors to healthy ageing.  Analysis points to factors that contribute to healthy ageing of humans.",
+		"link": "https://www.nature.com/articles/d41586-021-02196-0"
+	},
+	{
+		"title": "Skin Furrows of the Hand",
+		"desc": "ALLOW me to contribute the information in my possession in furtherance of the interesting study undertaken by your Japan correspondent (vol. xxii. p. 605).",
+		"link": "https://www.nature.com/articles/023076b0"
+	},
+	{
+		"title": "Before making a mammoth, ask the public",
+		"desc": "I turned down the role of adviser to a de-extinction company — that task belongs to everyone.  I turned down the role of adviser to a de-extinction company — that task belongs to everyone.",
+		"link": "https://www.nature.com/articles/d41586-021-02844-5"
+	},
+	{
+		"title": "Rewinding the biological clock helps blind mice to see",
+		"desc": "Cells in the eye appear to be ‘younger’ after treatment  Cells in the eye appear to be ‘younger’ after treatment",
+		"link": "https://www.nature.com/articles/d41586-020-03439-2"
+	},
+	{
+		"title": "Why leaky pipes can be better for moving water",
+		"desc": "Tiny 3D printed structures let water flow through them despite being open to the air  Tiny 3D printed structures let water flow through them despite being open to the air",
+		"link": "https://www.nature.com/articles/d41586-021-01822-1"
+	},
+	{
+		"title": "The smart chain mail fabric that can stiffen on demand",
+		"desc": "The new 3D-printed material can switch from flexible to stiff and back again  The new 3D-printed material can switch from flexible to stiff and back again",
+		"link": "https://www.nature.com/articles/d41586-021-02205-2"
+	},
+	{
+		"title": "A candidate super-Earth planet orbiting near the snow line of Barnard’s star",
+		"desc": "Barnard’s star is a red dwarf, and has the largest proper motion (apparent motion across the sky) of all known stars. At a distance of 1.8 parsecs1, it is the closest single star to the Sun; only the three stars in the α Centauri system are closer. Barnard’s star is also among the least magnetically active red dwarfs known2,3 and has an estimated age older than the Solar System. Its properties make it a prime target for planetary searches; various techniques with different sensitivity limits have been used previously, including radial-velocity imaging4–6, astrometry7,8 and direct imaging9, but all ultimately led to negative or null results. Here we combine numerous measurements from high-precision radial-velocity instruments, revealing the presence of a low-amplitude periodic signal with a period of 233 days. Independent photometric and spectroscopic monitoring, as well as an analysis of instrumental systematic effects, suggest that this signal is best explained as arising from a planetary companion. The candidate planet around Barnard’s star is a cold super-Earth, with a minimum mass of 3.2 times that of Earth, orbiting near its snow line (the minimum distance from the star at which volatile compounds could condense). The combination of all radial-velocity datasets spanning 20 years of measurements additionally reveals a long-term modulation that could arise from a stellar magnetic-activity cycle or from a more distant planetary object. Because of its proximity to the Sun, the candidate planet has a maximum angular separation of 220 milliarcseconds from Barnard’s star, making it an excellent target for direct imaging and astrometric observations in the future. Analysis of 20 years of observations of Barnard’s star from seven facilities reveals a signal with a period of 233 days that is indicative of a companion planet.",
+		"link": "https://www.nature.com/articles/s41586-018-0677-y"
+	},
+	{
+		"title": "Homing in on an oral link to inflammatory disease",
+		"desc": "The immunological effects of untreated gum disease can amplify risk of a range of disorders — but could also create opportunities for intervention.  The immunological effects of untreated gum disease can amplify risk of a range of disorders — but could also create opportunities for intervention.",
+		"link": "http://www.nature.com/articles/d41586-021-02918-4"
+	},
+	{
+		"title": "The role of charge recombination to triplet excitons in organic solar cells",
+		"desc": "The use of non-fullerene acceptors (NFAs) in organic solar cells has led to power conversion efficiencies as high as 18%1. However, organic solar cells are still less efficient than inorganic solar cells, which typically have power conversion efficiencies of more than 20%2. A key reason for this difference is that organic solar cells have low open-circuit voltages relative to their optical bandgaps3, owing to non-radiative recombination4. For organic solar cells to compete with inorganic solar cells in terms of efficiency, non-radiative loss pathways must be identified and suppressed. Here we show that in most organic solar cells that use NFAs, the majority of charge recombination under open-circuit conditions proceeds via the formation of non-emissive NFA triplet excitons; in the benchmark PM6:Y6 blend5, this fraction reaches 90%, reducing the open-circuit voltage by 60 mV. We prevent recombination via this non-radiative channel by engineering substantial hybridization between the NFA triplet excitons and the spin-triplet charge-transfer excitons. Modelling suggests that the rate of back charge transfer from spin-triplet charge-transfer excitons to molecular triplet excitons may be reduced by an order of magnitude, enabling re-dissociation of the spin-triplet charge-transfer exciton. We demonstrate NFA systems in which the formation of triplet excitons is suppressed. This work thus provides a design pathway for organic solar cells with power conversion efficiencies of 20% or more. A substantial pathway for energy loss in organic solar cells may be suppressed by engineering hybridization between non-fullerene acceptor triplet excitons and spin-triplet charge transfer excitons.",
+		"link": "https://www.nature.com/articles/s41586-021-03840-5"
+	},
+	{
+		"title": "Greece used AI to curb COVID: what other nations can learn",
+		"desc": "Governments are hungry to deploy big data in health emergencies. Scientists must help to lay the legal, ethical and logistical groundwork.  Governments are hungry to deploy big data in health emergencies. Scientists must help to lay the legal, ethical and logistical groundwork.",
+		"link": "https://www.nature.com/articles/d41586-021-02554-y"
+	},
+	{
+		"title": "A Brief Outline of the Development of the Theory of Relativity",
+		"desc": "[Translated by Dr. Robert W. Lawson.] THERE is something attractive in presenting the evolution of a sequence of ideas in as brief a form as possible, and yet with a completeness sufficient to preserve throughout the continuity of development. We shall endeavour to do this for the Theory of Relativity, and to show that the whole ascent is composed of small, almost self-evident steps of thought. The general theory of relativity has been one of the most successful developments in twentieth-century physics, providing the foundation for our concepts of space, time and gravity. In 1921, Albert Einstein described the sequence of ideas that led to this theory, before concluding with some prescient remarks on the questions that remained.",
+		"link": "https://www.nature.com/articles/106782a0"
+	},
+	{
+		"title": "The genomic origins of the Bronze Age Tarim Basin mummies",
+		"desc": "The identity of the earliest inhabitants of Xinjiang, in the heart of Inner Asia, and the languages that they spoke have long been debated and remain contentious1. Here we present genomic data from 5 individuals dating to around 3000–2800 bc from the Dzungarian Basin and 13 individuals dating to around 2100–1700 bc﻿ from the Tarim Basin, representing the earliest yet discovered human remains from North and South Xinjiang, respectively. We find that the Early Bronze Age Dzungarian individuals exhibit a predominantly Afanasievo ancestry with an additional local contribution, and the Early–Middle Bronze Age Tarim individuals contain only a local ancestry. The Tarim individuals from the site of Xiaohe further exhibit strong evidence of milk proteins in their dental calculus, indicating a reliance on dairy pastoralism at the site since its founding. Our results do not support previous hypotheses for the origin of the Tarim mummies, who were argued to be Proto-Tocharian-speaking pastoralists descended from the Afanasievo1,2 or to have originated among the Bactria–Margiana Archaeological Complex3 or Inner Asian Mountain Corridor cultures4. Instead, although Tocharian may have been plausibly introduced to the Dzungarian Basin by Afanasievo migrants during the Early Bronze Age, we find that the earliest Tarim Basin cultures appear to have arisen from a genetically isolated local population that adopted neighbouring pastoralist and agriculturalist practices, which allowed them to settle and thrive along the shifting riverine oases of the Taklamakan Desert. A genomic analysis of human remains from the Bronze Age provides insights into the origin of the Tarim Basin mummies from the Xinjiang region.",
+		"link": "https://www.nature.com/articles/s41586-021-04052-7"
+	},
+	{
+		"title": "The cost of changes in energy use in a warming world",
+		"desc": "How will global energy usage change as Earth warms? Modelling now suggests that there will be a modest net decrease in energy consumption — but probably at the expense of human well-being in many regions.  Estimates of the social cost of carbon attributable to energy use.",
+		"link": "https://www.nature.com/articles/d41586-021-02721-1"
+	},
+	{
+		"title": "Errors in diamond synthesis",
+		"desc": "Claims of the conversion of carbon to diamond date back to 1880, but it was not until 1955 that the first reproducible synthesis was reported. Bundy et al. describe the high-pressure, high-temperature apparatus that enabled them to reach the stability field of diamond, and prove that the material obtained was indeed diamond. Ironically, some of the same authors discovered 38 years later that the very first diamond grown by their technique was not synthetic after all, but a fragment of a natural diamond that got into the experiment. Fortunately, however, the technique was sound, and marked the beginning of the present synthetic-diamond industry.",
+		"link": "https://www.nature.com/articles/365019a0"
+	},
+	{
+		"title": "Nature: Aphorisms by Goethe",
+		"desc": "NATURE! We are surrounded and embraced by her: powerless to separate ourselves from her, and powerless to penetrate beyond her.",
+		"link": "https://www.nature.com/articles/001009a0"
+	},
+	{
+		"title": " Germany's Aims and Ambitions ",
+		"desc": "LORD ROSEBERY, on March 1, 1893, speaking at the Royal Colonial Institute, said: “We have to remember that it is part of our responsibility and heritage to take care that the world, so far as it can be moulded by us, should receive the Anglo-Saxon, and not another character.” If we inquire what is conspicuous in the Anglo-Saxon character, most people will agree, I think, that it is based on regard for our neighbours’ rights, a regard which has been the object of our laws and struggles for centuries. The Anglo-Saxon spirit is essentially one which makes for fair-dealing; the race has never been a race of oppressors. Equity, truth, and justice have been our watch-words; and on the whole the nation has acted up to its convictions. It is this national feeling which has led to our taking part in the present war; rather than see a treaty broken, rather than allow a small nation to be coerced into an immoral act by a large and powerful one, we have lent our aid to the French and the Russians, and we are all prepared to support to the death what we all believe to be a righteous cause.",
+		"link": "https://www.nature.com/articles/094137a0"
+	},
+	{
+		"title": "Congo Basin rainforest — invest US$150 million in science",
+		"desc": "The world’s second-largest rainforest is key to limiting climate change — it needs urgent study and protection.  The world’s second-largest rainforest is key to limiting climate change — it needs urgent study and protection.",
+		"link": "https://www.nature.com/articles/d41586-021-02818-7"
+	},
+	{
+		"title": "Make electric vehicles lighter to maximize climate and safety benefits",
+		"desc": "Tax heavy cars and shrink batteries to consolidate the gains from electrifying transport.  Tax heavy cars and shrink batteries to consolidate the gains from electrifying transport.",
+		"link": "https://www.nature.com/articles/d41586-021-02760-8"
+	},
+	{
+		"title": "Why hundreds of scientists are weighing in on a high-stakes US abortion case",
+		"desc": "Studies suggest that a reversal of the landmark Roe v. Wade decision would be detrimental for many.  Studies suggest that a reversal of the landmark Roe v. Wade decision would be detrimental for many.",
+		"link": "https://www.nature.com/articles/d41586-021-02834-7"
+	},
+	{
+		"title": "Sheep cloned by nuclear transfer from a cultured cell line",
+		"desc": "NUCLEAR transfer has been used in mammals as both a valuable tool in embryological studies1 and as a method for the multiplication of 'elite' embryos2–4. Offspring have only been reported when early embryos, or embryo-derived cells during primary culture, were used as nuclear donors5,6. Here we provide the first report, to our knowledge, of live mammalian offspring following nuclear transfer from an established cell line. Lambs were born after cells derived from sheep embryos, which had been cultured for 6 to 13 passages, were induced to quiesce by serum starvation before transfer of their nuclei into enucleated oocytes. Induction of quiescence in the donor cells may modify the donor chromatin structure to help nuclear reprogramming and allow development. This approach will provide the same powerful opportunities for analysis and modification of gene function in livestock species that are available in the mouse through the use of embryonic stem cells7.",
+		"link": "https://www.nature.com/articles/380064a0"
+	},
+	{
+		"title": "The secret lives of cells — as never seen before",
+		"desc": "Cutting-edge microscopy techniques are allowing researchers to spy on the innards of cells in all their crowded glory.  Cutting-edge microscopy techniques are allowing researchers to spy on the innards of cells in all their crowded glory.",
+		"link": "https://www.nature.com/articles/d41586-021-02904-w"
+	},
+	{
+		"title": "The Revised Instructions to Inspectors",
+		"desc": "LAST year it was a matter of considerable complaint against the Education Department that the Draft Code was presented to Parliament unaccompanied by the new instructions to inspectors, without which it could neither be satisfactorily interpreted nor adequately discussed. No such complaint can be made this year. The issue of the new Code, which promises to place elementary schools under what is practically a new system of regulations, has been followed within a few days by a revised edition of the instructions to inspectors, in which the changes are correspondingly large. Indeed, more than half of the document consists of new matter.",
+		"link": "https://www.nature.com/articles/041577a0"
+	},
+	{
+		"title": "Disease variant prediction with deep generative models of evolutionary data",
+		"desc": "Quantifying the pathogenicity of protein variants in human disease-related genes would have a marked effect on clinical decisions, yet the overwhelming majority (over 98%) of these variants still have unknown consequences1–3. In principle, computational methods could support the large-scale interpretation of genetic variants. However, state-of-the-art methods4–10 have relied on training machine learning models on known disease labels. As these labels are sparse, biased and of variable quality, the resulting models have been considered insufficiently reliable11. Here we propose an approach that leverages deep generative models to predict variant pathogenicity without relying on labels. By modelling the distribution of sequence variation across organisms, we implicitly capture constraints on the protein sequences that maintain fitness. Our model EVE (evolutionary model of variant effect) not only outperforms computational approaches that rely on labelled data but also performs on par with, if not better than, predictions from high-throughput experiments, which are increasingly used as evidence for variant classification12–16. We predict the pathogenicity of more than 36 million variants across 3,219 disease genes and provide evidence for the classification of more than 256,000 variants of unknown significance. Our work suggests that models of evolutionary information can provide valuable independent evidence for variant interpretation that will be widely useful in research and clinical settings. A new computational method, EVE, classifies human genetic variants in disease genes using deep generative models trained solely on evolutionary sequences.",
+		"link": "https://www.nature.com/articles/s41586-021-04043-8#ref-CR3"
+	},
+	{
+		"title": "Efficient radical-based light-emitting diodes with doublet emission",
+		"desc": "Organic light-emitting diodes (OLEDs)1–5, quantum-dot-based LEDs6–10, perovskite-based LEDs11–13 and micro-LEDs14,15 have been championed to fabricate lightweight and flexible units for next-generation displays and active lighting. Although there are already some high-end commercial products based on OLEDs, costs must decrease whilst maintaining high operational efficiencies for the technology to realise wider impact.  Here we demonstrate efficient action of radical-based OLEDs16, whose emission originates from a spin doublet, rather than a singlet or triplet exciton. While the emission process is still spin-allowed in these OLEDs, the efficiency limitations imposed by triplet excitons are circumvented for doublets. Using a luminescent radical emitter, we demonstrate an OLED with maximum external quantum efficiency of 27 per cent at a wavelength of 710 nanometres—the highest reported value for deep-red and infrared LEDs. For a standard closed-shell organic semiconductor, holes and electrons occupy the highest occupied and lowest unoccupied molecular orbitals (HOMOs and LUMOs), respectively, and recombine to form singlet or triplet excitons. Radical emitters have a singly occupied molecular orbital (SOMO) in the ground state, giving an overall spin-1/2 doublet. If—as expected on energetic grounds—both electrons and holes occupy this SOMO level, recombination returns the system to the ground state, giving no light emission. However, in our very efficient OLEDs, we achieve selective hole injection into the HOMO and electron injection to the SOMO to form the fluorescent doublet excited state with near-unity internal quantum efficiency. Organic light-emitting devices containing radical emitters can achieve an efficiency of 27 per cent at deep-red and infrared wavelengths based on the excitation of spin doublets, rather than singlet or triplet states.",
+		"link": "https://www.nature.com/articles/s41586-018-0695-9"
+	},
+	{
+		"title": "A Carnivorous Goose",
+		"desc": "I INCLOSE to you an account of a Golden Eagle, which I have reason to know to be authentic. The possibility of a bird so purely graminivorous as a goose being taught to eat flesh, and acquiring the power of digesting it, is extremely curious. It is well known, however, that cows are largely fed on fish offal in Scandinavia, and I have heard of a Highland cow devouring a salmon which an unwary angler had hid among fern on the banks of a river in Sutherland.",
+		"link": "https://www.nature.com/articles/019554b0"
+	},
+	{
+		"title": "Traces of a series of human dispersals through Arabia",
+		"desc": "The Arabian Peninsula was a key migratory crossroads when humans and our hominin relatives began to leave Africa. Archaeological evidence and climate reconstructions reveal episodes when early humans inhabited Arabia.  Timeline emerges for human occupation of the Arabian Peninsula.",
+		"link": "https://www.nature.com/articles/d41586-021-02321-z"
+	},
+	{
+		"title": "This digital-hygiene routine will protect your scholarship",
+		"desc": "Simple, regular checks could squelch some pernicious practices by unscrupulous publishers and preserve your digital presence.  Simple, regular checks could squelch some pernicious practices by unscrupulous publishers and preserve your digital presence.",
+		"link": "https://www.nature.com/articles/d41586-021-02901-z"
+	},
+	{
+		"title": "The race for antiviral drugs to beat COVID — and the next pandemic",
+		"desc": "Despite dire warnings, a stockpile of ready compounds to fight viral pandemics was sorely lacking. Can drugmakers finally do the right thing?  Despite dire warnings, a stockpile of ready compounds to fight viral pandemics was sorely lacking. Can drugmakers finally do the right thing?",
+		"link": "https://www.nature.com/articles/d41586-021-00958-4"
+	},
+	{
+		"title": "Structure, function and diversity of the healthy human microbiome",
+		"desc": "Studies of the human microbiome have revealed that even healthy individuals differ remarkably in the microbes that occupy habitats such as the gut, skin and vagina. Much of this diversity remains unexplained, although diet, environment, host genetics and early microbial exposure have all been implicated. Accordingly, to characterize the ecology of human-associated microbial communities, the Human Microbiome Project has analysed the largest cohort and set of distinct, clinically relevant body habitats so far. We found the diversity and abundance of each habitat’s signature microbes to vary widely even among healthy subjects, with strong niche specialization both within and among individuals. The project encountered an estimated 81–99% of the genera, enzyme families and community configurations occupied by the healthy Western microbiome. Metagenomic carriage of metabolic pathways was stable among individuals despite variation in community structure, and ethnic/racial background proved to be one of the strongest associations of both pathways and microbes with clinical metadata. These results thus delineate the range of structural and functional configurations normal in the microbial communities of a healthy population, enabling future characterization of the epidemiology, ecology and translational applications of the human microbiome. The Human Microbiome Project Consortium reports the first results of their analysis of microbial communities from distinct, clinically relevant body habitats in a human cohort; the insights into the microbial communities of a healthy population lay foundations for future exploration of the epidemiology, ecology and translational applications of the human microbiome. The Human Microbiome Project (HMP), supported by the National Institutes of Health Common Fund, has the goal of characterizing the microbial communities that inhabit and interact with the human body in sickness and in health. In two Articles in this issue of Nature, the HMP Consortium presents the first population-scale details of the organismal and functional composition of the microbiota across five areas of the body. An associated News & Views discusses the initial results — which, along with those of a series of co-publications, already constitute the most extensive catalogue of organisms and genes related to the human microbiome yet published — and highlights some of the major questions that the project will tackle in the next few years.",
+		"link": "https://www.nature.com/articles/nature11234"
+	},
+	{
+		"title": "Opioid peptide signal in the brain makes mice hungrier for reward",
+		"desc": "Release of opioid peptide in the brain leads food-deprived mice to eat more sugar than do mice that are well fed. This opioid signalling mechanism fine-tunes the reward value of food according to the animal’s state.  The reward value of food is tuned according to an animal’s state.",
+		"link": "https://www.nature.com/articles/d41586-021-02723-z"
+	},
+	{
+		"title": "Dispatched uses Na+ flux to power release of lipid-modified Hedgehog",
+		"desc": "The Dispatched protein, which is related to the NPC1 and PTCH1 cholesterol transporters1,2 and to H+-driven transporters of the RND family3,4, enables tissue-patterning activity of the lipid-modified Hedgehog protein by releasing it from tightly -localized sites of embryonic expression5–10. Here we determine a cryo-electron microscopy structure of the mouse protein Dispatched homologue 1 (DISP1), revealing three Na+ ions coordinated within a channel that traverses its transmembrane domain. We find that the rate of Hedgehog export is dependent on the Na+ gradient across the plasma membrane. The transmembrane channel and Na+ binding are disrupted in DISP1-NNN, a variant with asparagine substitutions for three intramembrane aspartate residues that each coordinate and neutralize the charge of one of the three Na+ ions. DISP1-NNN and variants that disrupt single Na+ sites retain binding to, but are impaired in export of the lipid-modified Hedgehog protein to the SCUBE2 acceptor. Interaction of the amino-terminal signalling domain of the Sonic hedgehog protein (ShhN) with DISP1 occurs via an extensive buried surface area and contacts with an extended furin-cleaved DISP1 arm. Variability analysis reveals that ShhN binding is restricted to one extreme of a continuous series of DISP1 conformations. The bound and unbound DISP1 conformations display distinct Na+-site occupancies, which suggests a mechanism by which transmembrane Na+ flux may power extraction of the lipid-linked Hedgehog signal from the membrane. Na+-coordinating residues in DISP1 are conserved in PTCH1 and other metazoan RND family members, suggesting that Na+ flux powers their conformationally driven activities. Cryo-electron microscopy studies show that dynamic coordination of Na+ in the ion channel of Dispatched homologue 1 and the transmembrane Na+ gradient have key roles in exporting lipid-modified Hedgehog protein signal.",
+		"link": "https://www.nature.com/articles/s41586-021-03996-0#Fig1"
+	},
+	{
+		"title": "Bacteria recycle tumour waste to fuel immune cells",
+		"desc": "Key nutrients that are needed by immune cells are scarce in tumours. Engineered cancer-invading bacteria can recycle tumour waste into metabolic fuel to boost anticancer immune responses in mice.  Engineered microbes at a tumour site make nutrients that aid T cells.",
+		"link": "https://www.nature.com/articles/d41586-021-02639-8"
+	},
+	{
+		"title": "Curbing fossil fuels and a look inside cells — the week in infographics",
+		"desc": "Nature highlights three key infographics from the week in science and research.  Nature highlights three key infographics from the week in science and research.",
+		"link": "http://www.nature.com/articles/d41586-021-02975-9"
+	},
+	{
+		"title": "The race for coronavirus vaccines: a graphical guide",
+		"desc": "Eight ways in which scientists hope to provide immunity to SARS-CoV-2 .  Eight ways in which scientists hope to provide immunity to SARS-CoV-2 .",
+		"link": "https://www.nature.com/articles/d41586-020-01221-y"
+	},
+	{
+		"title": "Announcement: Nature journals support the San Francisco Declaration on Research Assessment",
+		"desc": "",
+		"link": "https://www.nature.com/articles/nature.2017.21882"
+	},
+	{
+		"title": "The next generation of weapons",
+		"desc": "",
+		"link": "https://www.nature.com/articles/277161a0"
+	},
+	{
+		"title": "Disease variant prediction with deep generative models of evolutionary data",
+		"desc": "Quantifying the pathogenicity of protein variants in human disease-related genes would have a marked effect on clinical decisions, yet the overwhelming majority (over 98%) of these variants still have unknown consequences1–3. In principle, computational methods could support the large-scale interpretation of genetic variants. However, state-of-the-art methods4–10 have relied on training machine learning models on known disease labels. As these labels are sparse, biased and of variable quality, the resulting models have been considered insufficiently reliable11. Here we propose an approach that leverages deep generative models to predict variant pathogenicity without relying on labels. By modelling the distribution of sequence variation across organisms, we implicitly capture constraints on the protein sequences that maintain fitness. Our model EVE (evolutionary model of variant effect) not only outperforms computational approaches that rely on labelled data but also performs on par with, if not better than, predictions from high-throughput experiments, which are increasingly used as evidence for variant classification12–16. We predict the pathogenicity of more than 36 million variants across 3,219 disease genes and provide evidence for the classification of more than 256,000 variants of unknown significance. Our work suggests that models of evolutionary information can provide valuable independent evidence for variant interpretation that will be widely useful in research and clinical settings. A new computational method, EVE, classifies human genetic variants in disease genes using deep generative models trained solely on evolutionary sequences.",
+		"link": "https://www.nature.com/articles/s41586-021-04043-8#MOESM5"
+	},
+	{
+		"title": "Lessons from history on climate and pandemics: Books in brief",
+		"desc": "Andrew Robinson reviews five of the week’s best science picks.  Andrew Robinson reviews five of the week’s best science picks.",
+		"link": "https://www.nature.com/articles/d41586-021-02929-1"
+	},
+	{
+		"title": "La pandemia potrebbe peggiorare il divario di genere nella ricerca",
+		"desc": "Nuove prove che le chiusure delle scuole e i lockdown hanno danneggiato la produttività e le prospettive di carriera delle ricercatrici.  Nuove prove che le chiusure delle scuole e i lockdown hanno danneggiato la produttività e le prospettive di carriera delle ricercatrici.",
+		"link": "https://www.nature.com/articles/d43978-021-00133-3"
+	},
+	{
+		"title": "Social Implications of Automatic Control in Industry",
+		"desc": "",
+		"link": "https://www.nature.com/articles/176133a0"
+	},
+	{
+		"title": "Central Dogma Reversed",
+		"desc": "",
+		"link": "https://www.nature.com/articles/2261198a0"
+	},
+	{
+		"title": " The Science of Statesmanship ",
+		"desc": "POLITICAL science and politics are two very different A things; some progress has been made in methodising the facts and inductions of political economy, but politics is still little more than a chaos of party prejudices and personal invective. Yet there is surely no reason why political action, the conduct of the State, should not be guided by scientific method quite as much as the conduct of a scientific exploring expedition such as that which has so recently sailed over the North-East Passage. Prof. Nordenskjöld's feat is one of the finest instances of scientific prediction based on ascertained data that we know of, and we would recommend it to Sir William Harcourt's consideration when he contemplates taking part in another political “agitation.” Sir William has succeeded in getting such a firm grasp of the real nature of scientific method, and he applied it so wittily and so well in his recent Birmingham address that we would advise him to follow out this line in real earnest. So thoroughly does he seem to understand the method of scientific research and scientific prediction, and so ably, although only in sport and to banter his opponents, did he expound it, that we think science has lost in him a successful worker. To this loss we could resign ourselves if Sir William would set himself to rescue politics from its present degraded position as a mere theatre for party strife, and to elevate it into something like a science of national life and progress. He must have taken considerable pains to obtain his knowledge of the method and uses of the Nautical Almanac; his natural mistake as to its editorship we can overlook. As to the truth of his application of the method of the almanac to the construction of a Conservative Almanac; “after a careful induction from the conduct of Tory government,” we have nothing to do here; its ingenuity is amusing. With the following remarks, however, men of all parties cannot but agree:—",
+		"link": "https://www.nature.com/articles/021295a0"
+	},
+	{
+		"title": "In shock move, US backs waiving patents on COVID vaccines",
+		"desc": "The development from the Biden administration draws cheers from public-health researchers and ire from drugmakers.  The development from the Biden administration draws cheers from public-health researchers and ire from drugmakers.",
+		"link": "https://www.nature.com/articles/d41586-021-01224-3"
+	},
+	{
+		"title": "The genomic origins of the Bronze Age Tarim Basin mummies",
+		"desc": "The identity of the earliest inhabitants of Xinjiang, in the heart of Inner Asia, and the languages that they spoke have long been debated and remain contentious1. Here we present genomic data from 5 individuals dating to around 3000–2800 bc from the Dzungarian Basin and 13 individuals dating to around 2100–1700 bc﻿ from the Tarim Basin, representing the earliest yet discovered human remains from North and South Xinjiang, respectively. We find that the Early Bronze Age Dzungarian individuals exhibit a predominantly Afanasievo ancestry with an additional local contribution, and the Early–Middle Bronze Age Tarim individuals contain only a local ancestry. The Tarim individuals from the site of Xiaohe further exhibit strong evidence of milk proteins in their dental calculus, indicating a reliance on dairy pastoralism at the site since its founding. Our results do not support previous hypotheses for the origin of the Tarim mummies, who were argued to be Proto-Tocharian-speaking pastoralists descended from the Afanasievo1,2 or to have originated among the Bactria–Margiana Archaeological Complex3 or Inner Asian Mountain Corridor cultures4. Instead, although Tocharian may have been plausibly introduced to the Dzungarian Basin by Afanasievo migrants during the Early Bronze Age, we find that the earliest Tarim Basin cultures appear to have arisen from a genetically isolated local population that adopted neighbouring pastoralist and agriculturalist practices, which allowed them to settle and thrive along the shifting riverine oases of the Taklamakan Desert. A genomic analysis of human remains from the Bronze Age provides insights into the origin of the Tarim Basin mummies from the Xinjiang region.",
+		"link": "http://www.nature.com/articles/s41586-021-04052-7"
+	},
+	{
+		"title": "An integrated encyclopedia of DNA elements in the human genome",
+		"desc": "The human genome encodes the blueprint of life, but the function of the vast majority of its nearly three billion bases is unknown. The Encyclopedia of DNA Elements (ENCODE) project has systematically mapped regions of transcription, transcription factor association, chromatin structure and histone modification. These data enabled us to assign biochemical functions for 80% of the genome, in particular outside of the well-studied protein-coding regions. Many discovered candidate regulatory elements are physically associated with one another and with expressed genes, providing new insights into the mechanisms of gene regulation. The newly identified elements also show a statistical correspondence to sequence variants linked to human disease, and can thereby guide interpretation of this variation. Overall, the project provides new insights into the organization and regulation of our genes and genome, and is an expansive resource of functional annotations for biomedical research. This overview of the ENCODE project outlines the data accumulated so far, revealing that 80% of the human genome now has at least one biochemical function assigned to it; the newly identified functional elements should aid the interpretation of results of genome-wide association studies, as many correspond to sites of association with human disease. The Encyclopedia of DNA Elements (ENCODE) project has systematically mapped regions of transcription, transcription-factor association, chromatin structure and histone modification. In this overview, the Consortium guides the readers through the project itself, the data and their integrated analyses. Eighty per cent of the human genome now has at least one biochemical function assigned to it. In addition to expanding our understanding of how gene expression is regulated on a genome-wide scale, the newly identified functional elements should help researchers to interpret the results of genome-wide associated studies because many correspond to sites associated with human disease.",
+		"link": "https://www.nature.com/articles/nature11247"
+	},
+	{
+		"title": "AKIRIN2 controls the nuclear import of proteasomes in vertebrates",
+		"desc": "Protein expression and turnover are controlled through a complex interplay of transcriptional, post-transcriptional and post-translational mechanisms to enable spatial and temporal regulation of cellular processes. To systematically elucidate such gene regulatory networks, we developed a CRISPR screening assay based on time-controlled Cas9 mutagenesis, intracellular immunostaining and fluorescence-activated cell sorting that enables the identification of regulatory factors independent of their effects on cellular fitness. We pioneered this approach by systematically probing the regulation of the transcription factor MYC, a master regulator of cell growth1–3. Our screens uncover a highly conserved protein, AKIRIN2, that is essentially required for nuclear protein degradation. We found that AKIRIN2 forms homodimers that directly bind to fully assembled 20S proteasomes to mediate their nuclear import. During mitosis, proteasomes are excluded from condensing chromatin and re-imported into newly formed daughter nuclei in a highly dynamic, AKIRIN2-dependent process. Cells undergoing mitosis in the absence of AKIRIN2 become devoid of nuclear proteasomes, rapidly causing accumulation of MYC and other nuclear proteins. Collectively, our study reveals a dedicated pathway controlling the nuclear import of proteasomes in vertebrates and establishes a scalable approach to decipher regulators in essential cellular processes. Using time-controlled CRISPR screens, the authors identify AKIRIN2 as a factor involved in the nuclear import of the proteasome.",
+		"link": "https://www.nature.com/articles/s41586-021-04035-8#Fig2"
+	},
+	{
+		"title": "A two-step hormone-signalling mechanism that drives physical activity",
+		"desc": "In mice, the ovarian hormone oestradiol sensitizes neurons in a brain region called the hypothalamus to a melanocortin hormone that signals an energy surplus. Their dual activation increases physical activity.  An oestrogen sensitizes certain neurons to signals of energy surplus.",
+		"link": "https://www.nature.com/articles/d41586-021-02725-x"
+	},
+	{
+		"title": " Tele-Photography ",
+		"desc": "WHILE experimenting with the photophone it occurred to me that the fact that the resistance of crystalline selenium varies with the intensity of the light falling upon it might be applied in the construction of an instrument for the electrical transmission of pictures of natural objects in the manner to be described in this paper.",
+		"link": "https://www.nature.com/articles/023344a0"
+	},
+	{
+		"title": "On the Skin-Furrows of the Hand",
+		"desc": "IN looking over some specimens of “prehistoric” pottery found in Japan I was led, about a year ago, to give some attention to the character of certain finger-marks which had been made on them while the clay was still soft. Unfortunately all of those which happened to come into my possession were too vague and ill-defined to be of much use, but a comparison of such finger-tip impressions made in recent pottery led me to observe the characters of the skin-furrows in human fingers generally. From these I passed to the study of the finger-tips of monkeys, and found at once that they presented very close analogies to those of human beings. I have here few opportunities of prosecuting the latter study to much advantage, but hope to present such results as I may attain in another letter. Meanwhile I would venture to suggest to others more favourably situated the careful study of the lemurs, &c., in this connection, as an additional means of throwing light on their interesting genetic relations.",
+		"link": "https://www.nature.com/articles/022605a0"
+	},
+	{
+		"title": "Fossilised glider takes the origin of mammals back to the Triassic",
+		"desc": "New fossil suggests mammals evolved earlier than previously thought  New fossil suggests mammals evolved earlier than previously thought",
+		"link": "https://www.nature.com/articles/d41586-021-00247-0"
+	},
+	{
+		"title": "Viral RNA-dependent DNA Polymerase: RNA-dependent DNA Polymerase in Virions of Rous Sarcoma Virus",
+		"desc": "",
+		"link": "https://www.nature.com/articles/2261211a0"
+	},
+	{
+		"title": "Radio-telescopes and kangaroos galore",
+		"desc": "",
+		"link": "https://www.nature.com/articles/375182a0"
+	},
+	{
+		"title": "Fiction's futures",
+		"desc": "A forward-looking series of articles depends at least as much on imagination as reality.",
+		"link": "https://www.nature.com/articles/46849"
+	},
+	{
+		"title": "Past and Present",
+		"desc": "JUST five-and-twenty years ago, the Editor of NATURE did me the honour to request that I would write the leading article for his first number. In complying with my friend's wish, I said that I could think of no more appropriate preface to a journal, the aim of which was “to mirror that fashioning by nature of a picture of herself in the mind of man,” which is called science, than an English version of the wonderful rhapsody Die Natur, which is to be found among Goethe's works,1 and which had been a source of instruction and delight to me from my youth up.",
+		"link": "https://www.nature.com/articles/051001a0"
+	},
+	{
+		"title": "High stability and luminescence efficiency in donor–acceptor neutral radicals not following the Aufbau principle",
+		"desc": "With their unusual electronic structures, organic radical molecules display luminescence properties potentially relevant to lighting applications; yet, their luminescence quantum yield and stability lag behind those of other organic emitters. Here, we designed donor–acceptor neutral radicals based on an electron-poor perchlorotriphenylmethyl or tris(2,4,6-trichlorophenyl)methyl radical moiety combined with different electron-rich groups. Experimental and quantum-chemical studies demonstrate that the molecules do not follow the Aufbau principle: the singly occupied molecular orbital is found to lie below the highest (doubly) occupied molecular orbital. These donor–acceptor radicals have a strong emission yield (up to 54%) and high photostability, with estimated half-lives reaching up to several months under pulsed ultraviolet laser irradiation. Organic light-emitting diodes based on such a radical emitter show deep-red/near-infrared emission with a maximal external quantum efficiency of 5.3%. Our results provide a simple molecular-design strategy for stable, highly luminescent radicals with non-Aufbau electronic structures. Organic radical molecules violating the Aufbau principle are shown to reach high luminescence quantum yield and photostability, with potential applications for deep-red and near-infrared light-emitting sources.",
+		"link": "https://www.nature.com/articles/s41563-019-0433-1"
+	},
+	{
+		"title": "The DNA sequence and biological annotation of human chromosome 1",
+		"desc": "The reference sequence for each human chromosome provides the framework for understanding genome function, variation and evolution. Here we report the finished sequence and biological annotation of human chromosome 1. Chromosome 1 is gene-dense, with 3,141 genes and 991 pseudogenes, and many coding sequences overlap. Rearrangements and mutations of chromosome 1 are prevalent in cancer and many other diseases. Patterns of sequence variation reveal signals of recent selection in specific genes that may contribute to human fitness, and also in regions where no function is evident. Fine-scale recombination occurs in hotspots of varying intensity along the sequence, and is enriched near genes. These and other studies of human biology and disease encoded within chromosome 1 are made possible with the highly accurate annotated sequence, as part of the completed set of chromosome sequences that comprise the reference human genome. Nature's series of papers on the finished sequences of the human chromosomes concludes with publication of the analysis of chromosome 1. And it is last but not least: it is the largest chromosome in the genome, and is gene-dense, with 3,141 genes and 991 pseudogenes. A collected edition of the finished reference sequences of the 22 ‘autosomal’ chromosomes, plus the X and Y, together with accompanying News and Views articles, is to be published by Nature Publishing Group on 1 June 2006.",
+		"link": "https://www.nature.com/articles/nature04727"
+	},
+	{
+		"title": "Disease variant prediction with deep generative models of evolutionary data",
+		"desc": "Quantifying the pathogenicity of protein variants in human disease-related genes would have a marked effect on clinical decisions, yet the overwhelming majority (over 98%) of these variants still have unknown consequences1–3. In principle, computational methods could support the large-scale interpretation of genetic variants. However, state-of-the-art methods4–10 have relied on training machine learning models on known disease labels. As these labels are sparse, biased and of variable quality, the resulting models have been considered insufficiently reliable11. Here we propose an approach that leverages deep generative models to predict variant pathogenicity without relying on labels. By modelling the distribution of sequence variation across organisms, we implicitly capture constraints on the protein sequences that maintain fitness. Our model EVE (evolutionary model of variant effect) not only outperforms computational approaches that rely on labelled data but also performs on par with, if not better than, predictions from high-throughput experiments, which are increasingly used as evidence for variant classification12–16. We predict the pathogenicity of more than 36 million variants across 3,219 disease genes and provide evidence for the classification of more than 256,000 variants of unknown significance. Our work suggests that models of evolutionary information can provide valuable independent evidence for variant interpretation that will be widely useful in research and clinical settings. A new computational method, EVE, classifies human genetic variants in disease genes using deep generative models trained solely on evolutionary sequences.",
+		"link": "https://www.nature.com/articles/s41586-021-04043-8#MOESM1"
+	},
+	{
+		"title": "Beware of rainbows",
+		"desc": "The sacred and profane.  The sacred and profane.",
+		"link": "http://www.nature.com/articles/d41586-021-02961-1"
+	},
+	{
+		"title": "Initial sequencing and analysis of the human genome",
+		"desc": "The human genome holds an extraordinary trove of information about human development, physiology, medicine and evolution. Here we report the results of an international collaboration to produce and make freely available a draft sequence of the human genome. We also present an initial analysis of the data, describing some of the insights that can be gleaned from the sequence.",
+		"link": "https://www.nature.com/articles/35057062"
+	},
+	{
+		"title": "The gene-editing engineer working to boost expertise in China",
+		"desc": "The chief executive of Qihan Biotech aims to enable the first successful pig-to-human organ transplant and foster innovative biomedical research in her home country.  The chief executive of Qihan Biotech aims to enable the first successful pig-to-human organ transplant and foster innovative biomedical research in her home country.",
+		"link": "https://www.nature.com/articles/d41586-021-02732-y"
+	},
+	{
+		"title": "Professor Röntgen's Discovery",
+		"desc": "THE newspaper reports of Prof. Röntgen's experiments have, during the past few days, excited considerable interest. The discovery does not appear, however, to be entirely novel, as it was noted by Hertz that metallic films are transparent to the kathode rays from a Crookes or Hittorf tube, and in Lenard's researches, published about two years ago, it is distinctly pointed out that such rays will produce photographic impressions. Indeed, Lenard, employing a tube with an aluminium window, through which the kathode rays passed out with comparative ease, obtained photographic shadow images almost identical with those of Rontgen, through pieces of cardboard and aluminium interposed between the window and the photographic plate.",
+		"link": "https://www.nature.com/articles/053276a0"
+	},
+	{
+		"title": "Vikings were living in North America exactly a thousand years ago",
+		"desc": "An animated tale of giant solar storms, ancient sagas and the latest radiocarbon dating technology.  An animated tale of giant solar storms, ancient sagas and the latest radiocarbon dating technology.",
+		"link": "https://www.nature.com/articles/d41586-021-02930-8"
+	},
+	{
+		"title": "China’s data-driven dream to overhaul health care",
+		"desc": "Collaborations between AI researchers and China’s medical workers are helping to combat diseases such as diabetes and COVID-19.  Collaborations between AI researchers and China’s medical workers are helping to combat diseases such as diabetes and COVID-19.",
+		"link": "https://www.nature.com/articles/d41586-021-02694-1"
+	},
+	{
+		"title": "From the archive",
+		"desc": "Nature’s pages feature a look at the wonders of chemistry from a human angle and describe a solar explosion.  The wonders of chemistry and a solar explosion.",
+		"link": "https://www.nature.com/articles/d41586-021-02774-2"
+	}
+]
