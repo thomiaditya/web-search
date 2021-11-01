@@ -175,6 +175,15 @@ h1 {
 	font-size: 100px;
 }
 
+h3 {
+	font-family: "Roxborough CF";
+	font-weight: 900;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 14px;
+	color: rgb(165, 165, 165);
+}
+
 .search {
 	font-size: 20px;
 	font-family: "Roxborough CF";
