@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SEARCH ENGINE IMPLEMENTATION USING NODE JS 👋</h1>
+<h1 align="center">SEARCH ENGINE IMPLEMENTATION USING NODE JS 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/node-16.13.0-blue.svg" />
@@ -20,13 +20,31 @@
 
 ## Install
 
+For installation, you need to install `nodejs` first on your local. The main purpose to use `nodejs` is its capability to create web server directly. Using node package called `expressjs`, you can create web server at a glance.
+
+First install all packages needed by using this command.
+
 ```sh
+npm install
+```
+
+```sh
+# if you are using yarn you can use this command
 yarn install
+
+# or just
+yarn
 ```
 
 ## Usage
 
+To start development server, you can use command below,
+
 ```sh
+# npm
+npm start
+
+# yarn
 yarn start
 ```
 
