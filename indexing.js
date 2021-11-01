@@ -5,7 +5,7 @@ const fs = require("fs");
 
 // const query = "Covid-19 make a disaster of protein.";
 
-const articles = JSON.parse(fs.readFileSync("crawled.json", "utf8"));
+const articles = require("./crawled.json");
 
 const recommend = (query) => {
 	const tfidf = new TfIdf();
