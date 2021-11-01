@@ -20,11 +20,16 @@ const max = 200;
 let id = 0;
 const parsed_url = new Parser(URL);
 const crawled = {};
+
 const fixUrl = (url) => {
+	if (url.includes("#")) {
+		url = url.replace(/\#\w+/g, "");
+	}
 	if (!url.includes("http")) {
 		parsed_url.set("pathname", url);
 		return parsed_url.href;
 	}
+
 	return url;
 };
 

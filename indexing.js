@@ -1,6 +1,5 @@
 const natural = require("natural");
 const TfIdf = natural.TfIdf;
-const tfidf = new TfIdf();
 
 const fs = require("fs");
 
@@ -9,6 +8,7 @@ const fs = require("fs");
 const articles = JSON.parse(fs.readFileSync("crawled.json", "utf8"));
 
 const recommend = (query) => {
+	const tfidf = new TfIdf();
 	const result = [];
 	const res = [];
 	articles.forEach((article) => {

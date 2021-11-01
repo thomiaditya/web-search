@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="css/style.css" />
+		<title>Test</title>
+	</head>
+	<body>
+		<div class="container">
+			<h1>Not a search engine.</h1>
+			<form method="GET" action="/" class="form-search">
+				<input
+					type="text"
+					name="q"
+					placeholder="Do not search"
+					class="search"
+				/>
+				<!-- <button type="submit">Do not click</button> -->
+			</form>
+			<div class="item-wrapper">
+				<% for (let i = 0; i < searches.length; i++) { %>
+				<a href="<%= searches[i].link %> ">
+					<div class="item">
+						<h4><%= searches[i].title %></h4>
+						<h6><%= searches[i].link %></h6>
+						<p><%= searches[i].desc %></p>
+					</div>
+				</a>
+				<hr />
+				<% } %>
+			</div>
+		</div>
+	</body>
+</html>
