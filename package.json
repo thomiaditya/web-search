@@ -1,13 +1,15 @@
 {
 	"name": "web-search",
 	"version": "1.0.0",
-	"main": "index.js",
+	"description": "Web search or search engine has been flying around for about 2 decades atm. Popularized by Google in 1998 by Larry Page and Sergey Brin at Stanford University, California. Search engine makes us easier to surf on website around the world. Using Natural Language Processing (NLP), search engine serves people what they want. Only 3 main steps that Google explains to create yourown search engine. First, Crawling, means to crawl from website to website existed on the internet then store them in databases. After that, machine will do stuff called Indexing. Similar to the name, Indexing uses to index every token in every document web pages crawled before. In this step, machine will does much work considering to how many pages that been crawled. Indexing also run the concept of Ranking using some algorithm out there, for example PageRank Algorithm (used by Google). Yet for this project, due to incapability of machine, will be used TF-IDF indexer to determine rank of every documents.",
+	"main": "app.js",
 	"license": "MIT",
 	"scripts": {
 		"start": "node app.js",
 		"crawl": "node crawler.js"
 	},
 	"dependencies": {
+		"@ibbatta/readme-generator": "^0.1.9",
 		"axios": "^0.24.0",
 		"cheerio": "^1.0.0-rc.10",
 		"ejs": "^3.1.6",
