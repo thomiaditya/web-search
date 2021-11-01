@@ -12,7 +12,7 @@ const metaName = {
 	title: "dc.title",
 	desc: "dc.description",
 };
-const max = 200;
+const max = 500;
 
 /**
  * Algorithm.
