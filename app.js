@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const search = require("./indexing");
 const path = require("path");
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 app.set("view engine", "ejs");
 
