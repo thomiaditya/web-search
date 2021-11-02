@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"scripts": {
 		"start": "node app.js",
-		"crawl": "node crawler.js"
+		"crawl": "cd crawler && node crawler.js"
 	},
 	"dependencies": {
 		"axios": "^0.24.0",
